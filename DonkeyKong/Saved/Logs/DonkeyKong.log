@@ -2694,3 +2694,1309 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.12.07-19.31.39:603][585]LogSavePackage: Moving 'E:/Projet Unreal Engine/Donkey-Kong-UE-4.27.1/DonkeyKong/Saved/MAP_Game494ABBBD46CDBF9A5739BDB47D036508.tmp' to 'E:/Projet Unreal Engine/Donkey-Kong-UE-4.27.1/DonkeyKong/Content/Assets/MAP/MAP_Game.umap'
 [2022.12.07-19.31.39:624][585]AssetCheck: New page: Asset Save: MAP_Game
 [2022.12.07-19.31.39:624][585]LogContentValidation: Display: Validating World /Game/Assets/MAP/MAP_Game.MAP_Game
+[2022.12.07-19.37.44:220][301]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2022.12.07-19.37.44:240][301]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Assets/MAP/MAP_MainMenu.MAP_MainMenu
+[2022.12.07-19.37.44:240][301]Cmd: MAP LOAD FILE="E:/Projet Unreal Engine/Donkey-Kong-UE-4.27.1/DonkeyKong/Content/Assets/MAP/MAP_MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.12.07-19.37.44:240][301]LightingResults: New page: Lighting Build
+[2022.12.07-19.37.44:240][301]LoadErrors: New page: Loading map: MAP_MainMenu.umap
+[2022.12.07-19.37.44:243][301]LogWorld: UWorld::CleanupWorld for MAP_Game, bSessionEnded=true, bCleanupResources=true
+[2022.12.07-19.37.44:243][301]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.07-19.37.44:243][301]MapCheck: New page: Map Check
+[2022.12.07-19.37.44:243][301]LightingResults: New page: Lighting Build
+[2022.12.07-19.37.44:263][301]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.07-19.37.44:267][301]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2022.12.07-19.37.44:267][301]LogAudio: Display: Audio Device (ID: 1) registered with world 'MAP_MainMenu'.
+[2022.12.07-19.37.44:291][301]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.12.07-19.37.44:292][301]LogAIModule: Creating AISystem for world MAP_MainMenu
+[2022.12.07-19.37.44:315][301]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2022.12.07-19.37.44:325][301]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.12.07-19.37.44:325][301]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,086ms to complete.
+[2022.12.07-19.37.44:325][301]LogFileHelpers: Loading map 'MAP_MainMenu' took 0.085
+[2022.12.07-19.37.44:918][363]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2022.12.07-19.37.44:937][363]LogLinker: Warning: [AssetLog] E:\Projet Unreal Engine\Donkey-Kong-UE-4.27.1\DonkeyKong\Content\Assets\MAP\MAP_GameOver.umap: Failed to load '/Game/Assets/MAP/MAP_GameOver_BuiltData': Can't find file.
+[2022.12.07-19.37.44:937][363]LogLinker: Warning: [AssetLog] E:\Projet Unreal Engine\Donkey-Kong-UE-4.27.1\DonkeyKong\Content\Assets\MAP\MAP_GameOver.umap: Failed to load '/Game/Assets/MAP/MAP_GameOver_BuiltData': Can't find file.
+[2022.12.07-19.37.44:937][363]LogLinker: Warning: [AssetLog] E:\Projet Unreal Engine\Donkey-Kong-UE-4.27.1\DonkeyKong\Content\Assets\MAP\MAP_GameOver.umap: Failed to load '/Game/Assets/MAP/MAP_GameOver_BuiltData': Can't find file.
+[2022.12.07-19.37.44:938][363]LogLinker: Warning: Failed to load '/Game/Assets/MAP/MAP_GameOver_BuiltData': Can't find file.
+[2022.12.07-19.37.44:938][363]LogLinker: Warning: Failed to load '/Game/Assets/MAP/MAP_GameOver_BuiltData': Can't find file.
+[2022.12.07-19.37.44:942][363]LogLinker: Warning: [AssetLog] E:\Projet Unreal Engine\Donkey-Kong-UE-4.27.1\DonkeyKong\Content\Assets\MAP\MAP_GameOver.umap: Failed to load '/Game/Assets/MAP/MAP_GameOver_BuiltData': Can't find file.
+[2022.12.07-19.37.44:942][363]LoadErrors: Failed to load /Game/Assets/MAP/MAP_GameOver_BuiltData.MAP_GameOver_BuiltData Referenced by PersistentLevel
+[2022.12.07-19.37.44:944][363]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Assets/MAP/MAP_GameOver.MAP_GameOver
+[2022.12.07-19.37.44:944][363]Cmd: MAP LOAD FILE="E:/Projet Unreal Engine/Donkey-Kong-UE-4.27.1/DonkeyKong/Content/Assets/MAP/MAP_GameOver.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.12.07-19.37.44:944][363]LightingResults: New page: Lighting Build
+[2022.12.07-19.37.44:944][363]LoadErrors: New page: Loading map: MAP_GameOver.umap
+[2022.12.07-19.37.44:974][363]LogWorld: UWorld::CleanupWorld for MAP_MainMenu, bSessionEnded=true, bCleanupResources=true
+[2022.12.07-19.37.44:974][363]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.07-19.37.44:974][363]MapCheck: New page: Map Check
+[2022.12.07-19.37.44:974][363]LightingResults: New page: Lighting Build
+[2022.12.07-19.37.44:994][363]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.07-19.37.44:997][363]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2022.12.07-19.37.44:997][363]LogAudio: Display: Audio Device (ID: 1) registered with world 'MAP_GameOver'.
+[2022.12.07-19.37.45:021][363]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.12.07-19.37.45:021][363]LogAIModule: Creating AISystem for world MAP_GameOver
+[2022.12.07-19.37.45:045][363]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2022.12.07-19.37.45:055][363]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.12.07-19.37.45:055][363]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,082ms to complete.
+[2022.12.07-19.37.45:055][363]LogFileHelpers: Loading map 'MAP_GameOver' took 0.111
+[2022.12.07-19.37.45:913][459]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2022.12.07-19.37.45:926][459]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Assets/MAP/MAP_MainMenu.MAP_MainMenu
+[2022.12.07-19.37.45:926][459]Cmd: MAP LOAD FILE="E:/Projet Unreal Engine/Donkey-Kong-UE-4.27.1/DonkeyKong/Content/Assets/MAP/MAP_MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.12.07-19.37.45:926][459]LightingResults: New page: Lighting Build
+[2022.12.07-19.37.45:926][459]LoadErrors: New page: Loading map: MAP_MainMenu.umap
+[2022.12.07-19.37.45:928][459]LogWorld: UWorld::CleanupWorld for MAP_GameOver, bSessionEnded=true, bCleanupResources=true
+[2022.12.07-19.37.45:928][459]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.07-19.37.45:928][459]MapCheck: New page: Map Check
+[2022.12.07-19.37.45:928][459]LightingResults: New page: Lighting Build
+[2022.12.07-19.37.45:947][459]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.07-19.37.45:950][459]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2022.12.07-19.37.45:950][459]LogAudio: Display: Audio Device (ID: 1) registered with world 'MAP_MainMenu'.
+[2022.12.07-19.37.45:974][459]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.12.07-19.37.45:974][459]LogAIModule: Creating AISystem for world MAP_MainMenu
+[2022.12.07-19.37.45:997][459]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2022.12.07-19.37.46:007][459]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.12.07-19.37.46:007][459]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,082ms to complete.
+[2022.12.07-19.37.46:007][459]LogFileHelpers: Loading map 'MAP_MainMenu' took 0.081
+[2022.12.07-19.37.47:565][631]LogTemp: Repeating last play command: Selected Viewport
+[2022.12.07-19.37.47:571][631]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.07-19.37.47:571][631]PIE: New page: PIE session: MAP_MainMenu (7 déc. 2022 à 21:37:47)
+[2022.12.07-19.37.47:594][631]LogPlayLevel: Creating play world package: /Game/Assets/MAP/UEDPIE_0_MAP_MainMenu
+[2022.12.07-19.37.47:594][631]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000784s)
+[2022.12.07-19.37.47:595][631]LogAIModule: Creating AISystem for world MAP_MainMenu
+[2022.12.07-19.37.47:595][631]LogPlayLevel: PIE: World Init took: (0.000933s)
+[2022.12.07-19.37.47:595][631]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/MAP/MAP_MainMenu.MAP_MainMenu to /Game/Assets/MAP/UEDPIE_0_MAP_MainMenu.MAP_MainMenu (0.001856s)
+[2022.12.07-19.37.47:617][631]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2022.12.07-19.37.47:617][631]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2022.12.07-19.37.47:617][631]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.07-19.37.47:617][631]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.07-19.37.47:617][631]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.07-19.37.47:617][631]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.07-19.37.47:617][631]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.07-19.37.47:617][631]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.12.07-19.37.47:617][631]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.07-19.37.47:617][631]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.07-19.37.47:618][631]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.07-19.37.47:618][631]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.07-19.37.47:618][631]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.07-19.37.47:618][631]LogAudioMixer: Display: Initializing audio mixer.
+[2022.12.07-19.37.47:622][631]LogAudioMixer: Display: 0: FrontLeft
+[2022.12.07-19.37.47:622][631]LogAudioMixer: Display: 1: FrontRight
+[2022.12.07-19.37.47:622][631]LogAudioMixer: Display: 2: FrontCenter
+[2022.12.07-19.37.47:622][631]LogAudioMixer: Display: 3: LowFrequency
+[2022.12.07-19.37.47:623][631]LogAudioMixer: Display: 4: BackLeft
+[2022.12.07-19.37.47:623][631]LogAudioMixer: Display: 5: BackRight
+[2022.12.07-19.37.47:623][631]LogAudioMixer: Display: 6: SideLeft
+[2022.12.07-19.37.47:623][631]LogAudioMixer: Display: 7: SideRight
+[2022.12.07-19.37.47:640][631]LogAudioMixer: Display: Using Audio Device 7.1 Game Sound (2- Teufel Gaming Headset)
+[2022.12.07-19.37.47:640][631]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.07-19.37.47:640][631]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.07-19.37.47:640][631]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.07-19.37.47:640][631]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.12.07-19.37.47:640][631]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.12.07-19.37.47:640][631]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2022.12.07-19.37.47:642][631]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.12.07-19.37.47:642][631]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.12.07-19.37.47:642][631]LogInit: FAudioDevice initialized.
+[2022.12.07-19.37.47:642][631]LogAudio: Display: Audio Device (ID: 23) registered with world 'MAP_MainMenu'.
+[2022.12.07-19.37.47:648][631]LogLoad: Game class is 'GameManager_C'
+[2022.12.07-19.37.47:649][631]LogWorld: Bringing World /Game/Assets/MAP/UEDPIE_0_MAP_MainMenu.MAP_MainMenu up for play (max tick rate 0) at 2022.12.07-20.37.47
+[2022.12.07-19.37.47:649][631]LogWorld: Bringing up level for play took: 0.000249
+[2022.12.07-19.37.47:649][631]LogOnline: OSS: Creating online subsystem instance for: :Context_41
+[2022.12.07-19.37.47:652][631]LogBlueprintUserMessages: [GameManager_C_0] Data Loaded
+[2022.12.07-19.37.47:652][631]PIE: Server logged in
+[2022.12.07-19.37.47:653][631]PIE: Play in editor total start time 0,083 seconds.
+[2022.12.07-19.37.47:653][631]LogInput: Error: Duplicate mapping of key Gamepad_LeftY for axis MoveUp
+[2022.12.07-19.37.49:705][871]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.07-19.37.49:705][871]LogWorld: BeginTearingDown for /Game/Assets/MAP/UEDPIE_0_MAP_MainMenu
+[2022.12.07-19.37.49:705][871]LogWorld: UWorld::CleanupWorld for MAP_MainMenu, bSessionEnded=true, bCleanupResources=true
+[2022.12.07-19.37.49:706][871]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.07-19.37.49:717][871]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.07-19.37.49:721][871]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.07-19.37.49:742][871]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.07-19.37.49:742][871]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.07-19.37.49:743][871]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.07-19.37.49:749][871]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2022.12.07-19.37.49:786][873]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2022.12.07-19.37.50:732][982]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2022.12.07-19.37.50:735][982]LogSavePackage: Moving 'E:/Projet Unreal Engine/Donkey-Kong-UE-4.27.1/DonkeyKong/Saved/MAP_MainMenu473ED0044684E0599826DD93976A915D.tmp' to 'E:/Projet Unreal Engine/Donkey-Kong-UE-4.27.1/DonkeyKong/Content/Assets/MAP/MAP_MainMenu.umap'
+[2022.12.07-19.37.50:755][982]AssetCheck: New page: Asset Save: MAP_MainMenu
+[2022.12.07-19.37.50:755][982]LogContentValidation: Display: Validating World /Game/Assets/MAP/MAP_MainMenu.MAP_MainMenu
+[2022.12.07-20.31.35:799][490]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2022.12.07-20.31.35:811][490]LogLinker: Warning: [AssetLog] E:\Projet Unreal Engine\Donkey-Kong-UE-4.27.1\DonkeyKong\Content\Assets\MAP\MAP_GameOver.umap: Failed to load '/Game/Assets/MAP/MAP_GameOver_BuiltData': Can't find file.
+[2022.12.07-20.31.35:812][490]LogLinker: Warning: [AssetLog] E:\Projet Unreal Engine\Donkey-Kong-UE-4.27.1\DonkeyKong\Content\Assets\MAP\MAP_GameOver.umap: Failed to load '/Game/Assets/MAP/MAP_GameOver_BuiltData': Can't find file.
+[2022.12.07-20.31.35:812][490]LogLinker: Warning: [AssetLog] E:\Projet Unreal Engine\Donkey-Kong-UE-4.27.1\DonkeyKong\Content\Assets\MAP\MAP_GameOver.umap: Failed to load '/Game/Assets/MAP/MAP_GameOver_BuiltData': Can't find file.
+[2022.12.07-20.31.35:812][490]LogLinker: Warning: Failed to load '/Game/Assets/MAP/MAP_GameOver_BuiltData': Can't find file.
+[2022.12.07-20.31.35:812][490]LogLinker: Warning: Failed to load '/Game/Assets/MAP/MAP_GameOver_BuiltData': Can't find file.
+[2022.12.07-20.31.35:816][490]LogLinker: Warning: [AssetLog] E:\Projet Unreal Engine\Donkey-Kong-UE-4.27.1\DonkeyKong\Content\Assets\MAP\MAP_GameOver.umap: Failed to load '/Game/Assets/MAP/MAP_GameOver_BuiltData': Can't find file.
+[2022.12.07-20.31.35:816][490]LoadErrors: Failed to load /Game/Assets/MAP/MAP_GameOver_BuiltData.MAP_GameOver_BuiltData Referenced by PersistentLevel
+[2022.12.07-20.31.35:819][490]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Assets/MAP/MAP_GameOver.MAP_GameOver
+[2022.12.07-20.31.35:819][490]Cmd: MAP LOAD FILE="E:/Projet Unreal Engine/Donkey-Kong-UE-4.27.1/DonkeyKong/Content/Assets/MAP/MAP_GameOver.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.12.07-20.31.35:819][490]LightingResults: New page: Lighting Build
+[2022.12.07-20.31.35:819][490]LoadErrors: New page: Loading map: MAP_GameOver.umap
+[2022.12.07-20.31.35:865][490]LogWorld: UWorld::CleanupWorld for MAP_MainMenu, bSessionEnded=true, bCleanupResources=true
+[2022.12.07-20.31.35:865][490]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.07-20.31.35:865][490]MapCheck: New page: Map Check
+[2022.12.07-20.31.35:865][490]LightingResults: New page: Lighting Build
+[2022.12.07-20.31.35:885][490]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.07-20.31.35:888][490]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2022.12.07-20.31.35:888][490]LogAudio: Display: Audio Device (ID: 1) registered with world 'MAP_GameOver'.
+[2022.12.07-20.31.35:914][490]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.12.07-20.31.35:914][490]LogAIModule: Creating AISystem for world MAP_GameOver
+[2022.12.07-20.31.35:941][490]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2022.12.07-20.31.35:951][490]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.12.07-20.31.35:951][490]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,09ms to complete.
+[2022.12.07-20.31.35:951][490]LogFileHelpers: Loading map 'MAP_GameOver' took 0.133
+[2022.12.07-20.31.38:660][775]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Assets/MAP/MAP_GameOver.MAP_GameOver:PersistentLevel.MAP_GameOver
+[2022.12.07-20.31.46:695][684]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2022.12.07-20.31.46:695][684]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.07-20.31.47:777][789]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2022.12.07-20.31.47:811][789]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Assets/MAP/MAP_MainMenu.MAP_MainMenu
+[2022.12.07-20.31.47:811][789]Cmd: MAP LOAD FILE="E:/Projet Unreal Engine/Donkey-Kong-UE-4.27.1/DonkeyKong/Content/Assets/MAP/MAP_MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.12.07-20.31.47:811][789]LightingResults: New page: Lighting Build
+[2022.12.07-20.31.47:811][789]LoadErrors: New page: Loading map: MAP_MainMenu.umap
+[2022.12.07-20.31.47:847][789]LogWorld: UWorld::CleanupWorld for MAP_GameOver, bSessionEnded=true, bCleanupResources=true
+[2022.12.07-20.31.47:847][789]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.07-20.31.47:847][789]MapCheck: New page: Map Check
+[2022.12.07-20.31.47:847][789]LightingResults: New page: Lighting Build
+[2022.12.07-20.31.47:868][789]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.07-20.31.47:871][789]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2022.12.07-20.31.47:871][789]LogAudio: Display: Audio Device (ID: 1) registered with world 'MAP_MainMenu'.
+[2022.12.07-20.31.47:896][789]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.12.07-20.31.47:896][789]LogAIModule: Creating AISystem for world MAP_MainMenu
+[2022.12.07-20.31.47:922][789]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2022.12.07-20.31.47:933][789]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.12.07-20.31.47:933][789]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,089ms to complete.
+[2022.12.07-20.31.47:933][789]LogFileHelpers: Loading map 'MAP_MainMenu' took 0.122
+[2022.12.07-20.31.49:772][976]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Assets/MAP/MAP_MainMenu.MAP_MainMenu:PersistentLevel.MAP_MainMenu
+[2022.12.07-20.31.59:128][  9]LogContentBrowser: Attempting asset rename: MAP_Game -> MAP_Game
+[2022.12.07-20.32.04:131][586]BlueprintLog: New page: Compile MAP_MainMenu
+[2022.12.07-20.32.04:161][586]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2022.12.07-20.32.04:508][621]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2022.12.07-20.32.04:513][621]LogSavePackage: Moving 'E:/Projet Unreal Engine/Donkey-Kong-UE-4.27.1/DonkeyKong/Saved/MAP_MainMenu14836D224D626D043C0079BA85E5B39E.tmp' to 'E:/Projet Unreal Engine/Donkey-Kong-UE-4.27.1/DonkeyKong/Content/Assets/MAP/MAP_MainMenu.umap'
+[2022.12.07-20.32.04:525][621]LogFileHelpers: Saving map 'MAP_MainMenu' took 0.045
+[2022.12.07-20.32.04:538][621]AssetCheck: New page: Asset Save: MAP_MainMenu
+[2022.12.07-20.32.04:538][621]LogContentValidation: Display: Validating World /Game/Assets/MAP/MAP_MainMenu.MAP_MainMenu
+[2022.12.07-20.32.05:678][751]LogTemp: Repeating last play command: Selected Viewport
+[2022.12.07-20.32.05:685][751]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.07-20.32.05:685][751]PIE: New page: PIE session: MAP_MainMenu (7 déc. 2022 à 22:32:05)
+[2022.12.07-20.32.05:685][751]LogPlayLevel: Creating play world package: /Game/Assets/MAP/UEDPIE_0_MAP_MainMenu
+[2022.12.07-20.32.05:686][751]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001059s)
+[2022.12.07-20.32.05:687][751]LogAIModule: Creating AISystem for world MAP_MainMenu
+[2022.12.07-20.32.05:687][751]LogPlayLevel: PIE: World Init took: (0.000976s)
+[2022.12.07-20.32.05:687][751]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/MAP/MAP_MainMenu.MAP_MainMenu to /Game/Assets/MAP/UEDPIE_0_MAP_MainMenu.MAP_MainMenu (0.002146s)
+[2022.12.07-20.32.05:715][751]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2022.12.07-20.32.05:715][751]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2022.12.07-20.32.05:715][751]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.07-20.32.05:715][751]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.07-20.32.05:715][751]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.07-20.32.05:715][751]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.07-20.32.05:715][751]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.07-20.32.05:715][751]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.12.07-20.32.05:715][751]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.07-20.32.05:715][751]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.07-20.32.05:716][751]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.07-20.32.05:716][751]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.07-20.32.05:716][751]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.07-20.32.05:716][751]LogAudioMixer: Display: Initializing audio mixer.
+[2022.12.07-20.32.05:721][751]LogAudioMixer: Display: 0: FrontLeft
+[2022.12.07-20.32.05:721][751]LogAudioMixer: Display: 1: FrontRight
+[2022.12.07-20.32.05:721][751]LogAudioMixer: Display: 2: FrontCenter
+[2022.12.07-20.32.05:721][751]LogAudioMixer: Display: 3: LowFrequency
+[2022.12.07-20.32.05:721][751]LogAudioMixer: Display: 4: BackLeft
+[2022.12.07-20.32.05:721][751]LogAudioMixer: Display: 5: BackRight
+[2022.12.07-20.32.05:721][751]LogAudioMixer: Display: 6: SideLeft
+[2022.12.07-20.32.05:721][751]LogAudioMixer: Display: 7: SideRight
+[2022.12.07-20.32.05:741][751]LogAudioMixer: Display: Using Audio Device 7.1 Game Sound (2- Teufel Gaming Headset)
+[2022.12.07-20.32.05:741][751]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.07-20.32.05:742][751]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.07-20.32.05:742][751]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.07-20.32.05:742][751]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.12.07-20.32.05:742][751]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.12.07-20.32.05:742][751]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2022.12.07-20.32.05:743][751]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.12.07-20.32.05:743][751]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.12.07-20.32.05:743][751]LogInit: FAudioDevice initialized.
+[2022.12.07-20.32.05:743][751]LogAudio: Display: Audio Device (ID: 24) registered with world 'MAP_MainMenu'.
+[2022.12.07-20.32.05:754][751]LogLoad: Game class is 'GameManager_C'
+[2022.12.07-20.32.05:755][751]LogWorld: Bringing World /Game/Assets/MAP/UEDPIE_0_MAP_MainMenu.MAP_MainMenu up for play (max tick rate 0) at 2022.12.07-21.32.05
+[2022.12.07-20.32.05:755][751]LogWorld: Bringing up level for play took: 0.000275
+[2022.12.07-20.32.05:755][751]LogOnline: OSS: Creating online subsystem instance for: :Context_44
+[2022.12.07-20.32.05:758][751]LogBlueprintUserMessages: [GameManager_C_0] Data Loaded
+[2022.12.07-20.32.05:758][751]PIE: Server logged in
+[2022.12.07-20.32.05:759][751]PIE: Play in editor total start time 0,075 seconds.
+[2022.12.07-20.32.05:759][751]LogInput: Error: Duplicate mapping of key Gamepad_LeftY for axis MoveUp
+[2022.12.07-20.32.06:274][812]LogNet: Browse: /Game/Assets/MAP/MAP_Game
+[2022.12.07-20.32.06:274][812]LogLoad: LoadMap: /Game/Assets/MAP/MAP_Game
+[2022.12.07-20.32.06:274][812]LogWorld: BeginTearingDown for /Game/Assets/MAP/UEDPIE_0_MAP_MainMenu
+[2022.12.07-20.32.06:274][812]LogWorld: UWorld::CleanupWorld for MAP_MainMenu, bSessionEnded=true, bCleanupResources=true
+[2022.12.07-20.32.06:274][812]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.07-20.32.06:321][812]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.07-20.32.06:324][812]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2022.12.07-20.32.06:335][812]LogAudio: Display: Audio Device (ID: 24) registered with world 'MAP_Game'.
+[2022.12.07-20.32.06:336][812]LogAIModule: Creating AISystem for world MAP_Game
+[2022.12.07-20.32.06:336][812]LogLoad: Game class is 'GameManager_C'
+[2022.12.07-20.32.06:343][812]LogWorld: Bringing World /Game/Assets/MAP/UEDPIE_0_MAP_Game.MAP_Game up for play (max tick rate 0) at 2022.12.07-21.32.06
+[2022.12.07-20.32.06:343][812]LogWorld: Bringing up level for play took: 0.006834
+[2022.12.07-20.32.06:344][812]LogBlueprintUserMessages: [GameManager_C_0] Data Loaded
+[2022.12.07-20.32.06:345][812]LogLoad: Took 0.070571 seconds to LoadMap(/Game/Assets/MAP/MAP_Game)
+[2022.12.07-20.32.06:345][812]LogInput: Error: Duplicate mapping of key Gamepad_LeftY for axis MoveUp
+[2022.12.07-20.32.07:389][928]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.07-20.32.07:389][928]LogWorld: BeginTearingDown for /Game/Assets/MAP/UEDPIE_0_MAP_Game
+[2022.12.07-20.32.07:389][928]LogWorld: UWorld::CleanupWorld for MAP_Game, bSessionEnded=true, bCleanupResources=true
+[2022.12.07-20.32.07:390][928]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.07-20.32.07:396][928]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.07-20.32.07:400][928]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.07-20.32.07:425][928]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.07-20.32.07:425][928]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.07-20.32.07:426][928]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.07-20.32.07:430][928]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.07-20.32.07:434][928]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2022.12.07-20.32.07:454][929]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2022.12.07-20.32.08:215][ 14]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2022.12.07-20.32.08:220][ 14]LogSavePackage: Moving 'E:/Projet Unreal Engine/Donkey-Kong-UE-4.27.1/DonkeyKong/Saved/MAP_MainMenuEB3C559A41271DCAB76D95B3C714D692.tmp' to 'E:/Projet Unreal Engine/Donkey-Kong-UE-4.27.1/DonkeyKong/Content/Assets/MAP/MAP_MainMenu.umap'
+[2022.12.07-20.32.08:243][ 14]AssetCheck: New page: Asset Save: MAP_MainMenu
+[2022.12.07-20.32.08:243][ 14]LogContentValidation: Display: Validating World /Game/Assets/MAP/MAP_MainMenu.MAP_MainMenu
+[2022.12.07-20.32.20:576][481]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2022.12.07-20.32.20:610][481]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Assets/MAP/MAP_MainMenu.MAP_MainMenu
+[2022.12.07-20.32.20:611][481]Cmd: MAP LOAD FILE="E:/Projet Unreal Engine/Donkey-Kong-UE-4.27.1/DonkeyKong/Content/Assets/MAP/MAP_MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.12.07-20.32.20:611][481]LightingResults: New page: Lighting Build
+[2022.12.07-20.32.20:611][481]LoadErrors: New page: Loading map: MAP_MainMenu.umap
+[2022.12.07-20.32.20:618][481]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2022.12.07-20.32.20:618][481]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.07-20.32.20:657][481]LogWorld: UWorld::CleanupWorld for MAP_MainMenu, bSessionEnded=true, bCleanupResources=true
+[2022.12.07-20.32.20:657][481]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.07-20.32.20:657][481]MapCheck: New page: Map Check
+[2022.12.07-20.32.20:657][481]LightingResults: New page: Lighting Build
+[2022.12.07-20.32.20:683][481]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.07-20.32.20:687][481]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2022.12.07-20.32.20:693][481]LogAudio: Display: Audio Device (ID: 1) registered with world 'MAP_MainMenu'.
+[2022.12.07-20.32.20:694][481]LogAIModule: Creating AISystem for world MAP_MainMenu
+[2022.12.07-20.32.20:718][481]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.12.07-20.32.20:746][481]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2022.12.07-20.32.20:756][481]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.12.07-20.32.20:756][481]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,095ms to complete.
+[2022.12.07-20.32.20:756][481]LogFileHelpers: Loading map 'MAP_MainMenu' took 0.145
+[2022.12.07-20.32.21:174][515]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2022.12.07-20.32.21:210][515]LogLinker: Warning: [AssetLog] E:\Projet Unreal Engine\Donkey-Kong-UE-4.27.1\DonkeyKong\Content\Assets\MAP\MAP_GameOver.umap: Failed to load '/Game/Assets/MAP/MAP_GameOver_BuiltData': Can't find file.
+[2022.12.07-20.32.21:210][515]LogLinker: Warning: [AssetLog] E:\Projet Unreal Engine\Donkey-Kong-UE-4.27.1\DonkeyKong\Content\Assets\MAP\MAP_GameOver.umap: Failed to load '/Game/Assets/MAP/MAP_GameOver_BuiltData': Can't find file.
+[2022.12.07-20.32.21:211][515]LogLinker: Warning: [AssetLog] E:\Projet Unreal Engine\Donkey-Kong-UE-4.27.1\DonkeyKong\Content\Assets\MAP\MAP_GameOver.umap: Failed to load '/Game/Assets/MAP/MAP_GameOver_BuiltData': Can't find file.
+[2022.12.07-20.32.21:211][515]LogLinker: Warning: Failed to load '/Game/Assets/MAP/MAP_GameOver_BuiltData': Can't find file.
+[2022.12.07-20.32.21:211][515]LogLinker: Warning: Failed to load '/Game/Assets/MAP/MAP_GameOver_BuiltData': Can't find file.
+[2022.12.07-20.32.21:215][515]LogLinker: Warning: [AssetLog] E:\Projet Unreal Engine\Donkey-Kong-UE-4.27.1\DonkeyKong\Content\Assets\MAP\MAP_GameOver.umap: Failed to load '/Game/Assets/MAP/MAP_GameOver_BuiltData': Can't find file.
+[2022.12.07-20.32.21:215][515]LoadErrors: Failed to load /Game/Assets/MAP/MAP_GameOver_BuiltData.MAP_GameOver_BuiltData Referenced by PersistentLevel
+[2022.12.07-20.32.21:217][515]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Assets/MAP/MAP_GameOver.MAP_GameOver
+[2022.12.07-20.32.21:217][515]Cmd: MAP LOAD FILE="E:/Projet Unreal Engine/Donkey-Kong-UE-4.27.1/DonkeyKong/Content/Assets/MAP/MAP_GameOver.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.12.07-20.32.21:217][515]LightingResults: New page: Lighting Build
+[2022.12.07-20.32.21:217][515]LoadErrors: New page: Loading map: MAP_GameOver.umap
+[2022.12.07-20.32.21:240][515]LogWorld: UWorld::CleanupWorld for MAP_MainMenu, bSessionEnded=true, bCleanupResources=true
+[2022.12.07-20.32.21:240][515]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.07-20.32.21:240][515]MapCheck: New page: Map Check
+[2022.12.07-20.32.21:240][515]LightingResults: New page: Lighting Build
+[2022.12.07-20.32.21:261][515]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.07-20.32.21:265][515]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2022.12.07-20.32.21:265][515]LogAudio: Display: Audio Device (ID: 1) registered with world 'MAP_GameOver'.
+[2022.12.07-20.32.21:291][515]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.12.07-20.32.21:291][515]LogAIModule: Creating AISystem for world MAP_GameOver
+[2022.12.07-20.32.21:320][515]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2022.12.07-20.32.21:330][515]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.12.07-20.32.21:330][515]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,091ms to complete.
+[2022.12.07-20.32.21:331][515]LogFileHelpers: Loading map 'MAP_GameOver' took 0.113
+[2022.12.07-20.32.21:871][571]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2022.12.07-20.32.21:895][571]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Assets/MAP/MAP_Game.MAP_Game
+[2022.12.07-20.32.21:896][571]Cmd: MAP LOAD FILE="E:/Projet Unreal Engine/Donkey-Kong-UE-4.27.1/DonkeyKong/Content/Assets/MAP/MAP_Game.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.12.07-20.32.21:896][571]LightingResults: New page: Lighting Build
+[2022.12.07-20.32.21:896][571]LoadErrors: New page: Loading map: MAP_Game.umap
+[2022.12.07-20.32.21:897][571]LogWorld: UWorld::CleanupWorld for MAP_GameOver, bSessionEnded=true, bCleanupResources=true
+[2022.12.07-20.32.21:897][571]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.07-20.32.21:897][571]MapCheck: New page: Map Check
+[2022.12.07-20.32.21:897][571]LightingResults: New page: Lighting Build
+[2022.12.07-20.32.21:919][571]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.07-20.32.21:922][571]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2022.12.07-20.32.21:923][571]LogAudio: Display: Audio Device (ID: 1) registered with world 'MAP_Game'.
+[2022.12.07-20.32.21:960][571]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.12.07-20.32.21:960][571]LogAIModule: Creating AISystem for world MAP_Game
+[2022.12.07-20.32.21:984][571]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2022.12.07-20.32.21:995][571]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.12.07-20.32.21:995][571]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,095ms to complete.
+[2022.12.07-20.32.21:995][571]LogFileHelpers: Loading map 'MAP_Game' took 0.099
+[2022.12.07-20.32.22:876][652]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2022.12.07-20.32.22:917][652]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Assets/MAP/MAP_MainMenu.MAP_MainMenu
+[2022.12.07-20.32.22:918][652]Cmd: MAP LOAD FILE="E:/Projet Unreal Engine/Donkey-Kong-UE-4.27.1/DonkeyKong/Content/Assets/MAP/MAP_MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.12.07-20.32.22:918][652]LightingResults: New page: Lighting Build
+[2022.12.07-20.32.22:918][652]LoadErrors: New page: Loading map: MAP_MainMenu.umap
+[2022.12.07-20.32.22:919][652]LogWorld: UWorld::CleanupWorld for MAP_Game, bSessionEnded=true, bCleanupResources=true
+[2022.12.07-20.32.22:920][652]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.07-20.32.22:920][652]MapCheck: New page: Map Check
+[2022.12.07-20.32.22:920][652]LightingResults: New page: Lighting Build
+[2022.12.07-20.32.22:942][652]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.07-20.32.22:945][652]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2022.12.07-20.32.22:946][652]LogAudio: Display: Audio Device (ID: 1) registered with world 'MAP_MainMenu'.
+[2022.12.07-20.32.22:972][652]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.12.07-20.32.22:972][652]LogAIModule: Creating AISystem for world MAP_MainMenu
+[2022.12.07-20.32.22:997][652]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2022.12.07-20.32.23:007][652]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.12.07-20.32.23:007][652]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,098ms to complete.
+[2022.12.07-20.32.23:007][652]LogFileHelpers: Loading map 'MAP_MainMenu' took 0.089
+[2022.12.07-20.32.28:700][250]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.12.07-20.32.31:373][250]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.12.07-20.32.46:145][746]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2022.12.07-20.32.46:157][746]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2022.12.07-20.32.51:248][351]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> MainMenu
+[2022.12.07-20.32.51:275][351]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2022.12.07-20.32.53:199][577]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/UI/MainMenu" FILE="E:/Projet Unreal Engine/Donkey-Kong-UE-4.27.1/DonkeyKong/Content/Assets/UI/MainMenu.uasset" SILENT=true
+[2022.12.07-20.32.53:217][577]LogSavePackage: Moving 'E:/Projet Unreal Engine/Donkey-Kong-UE-4.27.1/DonkeyKong/Saved/MainMenu782C530346851B66A1EE88B44BCAC7DF.tmp' to 'E:/Projet Unreal Engine/Donkey-Kong-UE-4.27.1/DonkeyKong/Content/Assets/UI/MainMenu.uasset'
+[2022.12.07-20.32.53:230][577]AssetCheck: New page: Asset Save: MainMenu
+[2022.12.07-20.32.53:231][577]LogContentValidation: Display: Validating WidgetBlueprint /Game/Assets/UI/MainMenu.MainMenu
+[2022.12.07-20.32.56:121][901]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2022.12.07-20.32.56:138][901]LogLinker: Warning: [AssetLog] E:\Projet Unreal Engine\Donkey-Kong-UE-4.27.1\DonkeyKong\Content\Assets\MAP\MAP_GameOver.umap: Failed to load '/Game/Assets/MAP/MAP_GameOver_BuiltData': Can't find file.
+[2022.12.07-20.32.56:138][901]LogLinker: Warning: [AssetLog] E:\Projet Unreal Engine\Donkey-Kong-UE-4.27.1\DonkeyKong\Content\Assets\MAP\MAP_GameOver.umap: Failed to load '/Game/Assets/MAP/MAP_GameOver_BuiltData': Can't find file.
+[2022.12.07-20.32.56:138][901]LogLinker: Warning: [AssetLog] E:\Projet Unreal Engine\Donkey-Kong-UE-4.27.1\DonkeyKong\Content\Assets\MAP\MAP_GameOver.umap: Failed to load '/Game/Assets/MAP/MAP_GameOver_BuiltData': Can't find file.
+[2022.12.07-20.32.56:139][901]LogLinker: Warning: Failed to load '/Game/Assets/MAP/MAP_GameOver_BuiltData': Can't find file.
+[2022.12.07-20.32.56:139][901]LogLinker: Warning: Failed to load '/Game/Assets/MAP/MAP_GameOver_BuiltData': Can't find file.
+[2022.12.07-20.32.56:143][901]LogLinker: Warning: [AssetLog] E:\Projet Unreal Engine\Donkey-Kong-UE-4.27.1\DonkeyKong\Content\Assets\MAP\MAP_GameOver.umap: Failed to load '/Game/Assets/MAP/MAP_GameOver_BuiltData': Can't find file.
+[2022.12.07-20.32.56:143][901]LoadErrors: Failed to load /Game/Assets/MAP/MAP_GameOver_BuiltData.MAP_GameOver_BuiltData Referenced by PersistentLevel
+[2022.12.07-20.32.56:154][901]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Assets/MAP/MAP_GameOver.MAP_GameOver
+[2022.12.07-20.32.56:155][901]Cmd: MAP LOAD FILE="E:/Projet Unreal Engine/Donkey-Kong-UE-4.27.1/DonkeyKong/Content/Assets/MAP/MAP_GameOver.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.12.07-20.32.56:155][901]LightingResults: New page: Lighting Build
+[2022.12.07-20.32.56:155][901]LoadErrors: New page: Loading map: MAP_GameOver.umap
+[2022.12.07-20.32.56:156][901]LogWorld: UWorld::CleanupWorld for MAP_MainMenu, bSessionEnded=true, bCleanupResources=true
+[2022.12.07-20.32.56:156][901]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.07-20.32.56:156][901]MapCheck: New page: Map Check
+[2022.12.07-20.32.56:156][901]LightingResults: New page: Lighting Build
+[2022.12.07-20.32.56:178][901]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.07-20.32.56:181][901]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2022.12.07-20.32.56:181][901]LogAudio: Display: Audio Device (ID: 1) registered with world 'MAP_GameOver'.
+[2022.12.07-20.32.56:206][901]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.12.07-20.32.56:206][901]LogAIModule: Creating AISystem for world MAP_GameOver
+[2022.12.07-20.32.56:233][901]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2022.12.07-20.32.56:243][901]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.12.07-20.32.56:244][901]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,098ms to complete.
+[2022.12.07-20.32.56:244][901]LogFileHelpers: Loading map 'MAP_GameOver' took 0.089
+[2022.12.07-20.32.57:739][ 70]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2022.12.07-20.32.57:786][ 70]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Assets/MAP/MAP_MainMenu.MAP_MainMenu
+[2022.12.07-20.32.57:786][ 70]Cmd: MAP LOAD FILE="E:/Projet Unreal Engine/Donkey-Kong-UE-4.27.1/DonkeyKong/Content/Assets/MAP/MAP_MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.12.07-20.32.57:786][ 70]LightingResults: New page: Lighting Build
+[2022.12.07-20.32.57:786][ 70]LoadErrors: New page: Loading map: MAP_MainMenu.umap
+[2022.12.07-20.32.57:787][ 70]LogWorld: UWorld::CleanupWorld for MAP_GameOver, bSessionEnded=true, bCleanupResources=true
+[2022.12.07-20.32.57:787][ 70]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.07-20.32.57:788][ 70]MapCheck: New page: Map Check
+[2022.12.07-20.32.57:788][ 70]LightingResults: New page: Lighting Build
+[2022.12.07-20.32.57:809][ 70]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.07-20.32.57:812][ 70]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2022.12.07-20.32.57:812][ 70]LogAudio: Display: Audio Device (ID: 1) registered with world 'MAP_MainMenu'.
+[2022.12.07-20.32.57:839][ 70]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.12.07-20.32.57:839][ 70]LogAIModule: Creating AISystem for world MAP_MainMenu
+[2022.12.07-20.32.57:863][ 70]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2022.12.07-20.32.57:874][ 70]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.12.07-20.32.57:874][ 70]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,086ms to complete.
+[2022.12.07-20.32.57:874][ 70]LogFileHelpers: Loading map 'MAP_MainMenu' took 0.088
+[2022.12.07-20.32.58:803][173]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2022.12.07-20.32.58:844][173]LogLinker: Warning: [AssetLog] E:\Projet Unreal Engine\Donkey-Kong-UE-4.27.1\DonkeyKong\Content\Assets\MAP\MAP_GameOver.umap: Failed to load '/Game/Assets/MAP/MAP_GameOver_BuiltData': Can't find file.
+[2022.12.07-20.32.58:844][173]LogLinker: Warning: [AssetLog] E:\Projet Unreal Engine\Donkey-Kong-UE-4.27.1\DonkeyKong\Content\Assets\MAP\MAP_GameOver.umap: Failed to load '/Game/Assets/MAP/MAP_GameOver_BuiltData': Can't find file.
+[2022.12.07-20.32.58:844][173]LogLinker: Warning: [AssetLog] E:\Projet Unreal Engine\Donkey-Kong-UE-4.27.1\DonkeyKong\Content\Assets\MAP\MAP_GameOver.umap: Failed to load '/Game/Assets/MAP/MAP_GameOver_BuiltData': Can't find file.
+[2022.12.07-20.32.58:845][173]LogLinker: Warning: Failed to load '/Game/Assets/MAP/MAP_GameOver_BuiltData': Can't find file.
+[2022.12.07-20.32.58:845][173]LogLinker: Warning: Failed to load '/Game/Assets/MAP/MAP_GameOver_BuiltData': Can't find file.
+[2022.12.07-20.32.58:849][173]LogLinker: Warning: [AssetLog] E:\Projet Unreal Engine\Donkey-Kong-UE-4.27.1\DonkeyKong\Content\Assets\MAP\MAP_GameOver.umap: Failed to load '/Game/Assets/MAP/MAP_GameOver_BuiltData': Can't find file.
+[2022.12.07-20.32.58:849][173]LoadErrors: Failed to load /Game/Assets/MAP/MAP_GameOver_BuiltData.MAP_GameOver_BuiltData Referenced by PersistentLevel
+[2022.12.07-20.32.58:851][173]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Assets/MAP/MAP_GameOver.MAP_GameOver
+[2022.12.07-20.32.58:851][173]Cmd: MAP LOAD FILE="E:/Projet Unreal Engine/Donkey-Kong-UE-4.27.1/DonkeyKong/Content/Assets/MAP/MAP_GameOver.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.12.07-20.32.58:851][173]LightingResults: New page: Lighting Build
+[2022.12.07-20.32.58:851][173]LoadErrors: New page: Loading map: MAP_GameOver.umap
+[2022.12.07-20.32.58:853][173]LogWorld: UWorld::CleanupWorld for MAP_MainMenu, bSessionEnded=true, bCleanupResources=true
+[2022.12.07-20.32.58:853][173]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.07-20.32.58:853][173]MapCheck: New page: Map Check
+[2022.12.07-20.32.58:853][173]LightingResults: New page: Lighting Build
+[2022.12.07-20.32.58:873][173]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.07-20.32.58:876][173]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2022.12.07-20.32.58:877][173]LogAudio: Display: Audio Device (ID: 1) registered with world 'MAP_GameOver'.
+[2022.12.07-20.32.58:902][173]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.12.07-20.32.58:902][173]LogAIModule: Creating AISystem for world MAP_GameOver
+[2022.12.07-20.32.58:928][173]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2022.12.07-20.32.58:938][173]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.12.07-20.32.58:938][173]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,096ms to complete.
+[2022.12.07-20.32.58:938][173]LogFileHelpers: Loading map 'MAP_GameOver' took 0.087
+[2022.12.07-20.32.59:414][221]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2022.12.07-20.32.59:448][221]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Assets/MAP/MAP_MainMenu.MAP_MainMenu
+[2022.12.07-20.32.59:448][221]Cmd: MAP LOAD FILE="E:/Projet Unreal Engine/Donkey-Kong-UE-4.27.1/DonkeyKong/Content/Assets/MAP/MAP_MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.12.07-20.32.59:448][221]LightingResults: New page: Lighting Build
+[2022.12.07-20.32.59:448][221]LoadErrors: New page: Loading map: MAP_MainMenu.umap
+[2022.12.07-20.32.59:474][221]LogWorld: UWorld::CleanupWorld for MAP_GameOver, bSessionEnded=true, bCleanupResources=true
+[2022.12.07-20.32.59:474][221]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.07-20.32.59:475][221]MapCheck: New page: Map Check
+[2022.12.07-20.32.59:475][221]LightingResults: New page: Lighting Build
+[2022.12.07-20.32.59:496][221]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.07-20.32.59:499][221]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2022.12.07-20.32.59:500][221]LogAudio: Display: Audio Device (ID: 1) registered with world 'MAP_MainMenu'.
+[2022.12.07-20.32.59:529][221]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.12.07-20.32.59:529][221]LogAIModule: Creating AISystem for world MAP_MainMenu
+[2022.12.07-20.32.59:558][221]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2022.12.07-20.32.59:568][221]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.12.07-20.32.59:568][221]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,095ms to complete.
+[2022.12.07-20.32.59:568][221]LogFileHelpers: Loading map 'MAP_MainMenu' took 0.120
+[2022.12.07-20.33.02:599][558]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.12.07-20.33.02:622][558]LogLinker: Warning: [AssetLog] E:\Projet Unreal Engine\Donkey-Kong-UE-4.27.1\DonkeyKong\Content\Assets\MAP\MAP_GameOver.umap: Failed to load '/Game/Assets/MAP/MAP_GameOver_BuiltData': Can't find file.
+[2022.12.07-20.33.02:622][558]LogLinker: Warning: [AssetLog] E:\Projet Unreal Engine\Donkey-Kong-UE-4.27.1\DonkeyKong\Content\Assets\MAP\MAP_GameOver.umap: Failed to load '/Game/Assets/MAP/MAP_GameOver_BuiltData': Can't find file.
+[2022.12.07-20.33.02:623][558]LogLinker: Warning: [AssetLog] E:\Projet Unreal Engine\Donkey-Kong-UE-4.27.1\DonkeyKong\Content\Assets\MAP\MAP_GameOver.umap: Failed to load '/Game/Assets/MAP/MAP_GameOver_BuiltData': Can't find file.
+[2022.12.07-20.33.02:623][558]LogLinker: Warning: Failed to load '/Game/Assets/MAP/MAP_GameOver_BuiltData': Can't find file.
+[2022.12.07-20.33.02:623][558]LogLinker: Warning: Failed to load '/Game/Assets/MAP/MAP_GameOver_BuiltData': Can't find file.
+[2022.12.07-20.33.02:627][558]LogLinker: Warning: [AssetLog] E:\Projet Unreal Engine\Donkey-Kong-UE-4.27.1\DonkeyKong\Content\Assets\MAP\MAP_GameOver.umap: Failed to load '/Game/Assets/MAP/MAP_GameOver_BuiltData': Can't find file.
+[2022.12.07-20.33.02:627][558]LoadErrors: Failed to load /Game/Assets/MAP/MAP_GameOver_BuiltData.MAP_GameOver_BuiltData Referenced by PersistentLevel
+[2022.12.07-20.33.02:630][558]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Assets/MAP/MAP_GameOver.MAP_GameOver
+[2022.12.07-20.33.02:630][558]Cmd: MAP LOAD FILE="E:/Projet Unreal Engine/Donkey-Kong-UE-4.27.1/DonkeyKong/Content/Assets/MAP/MAP_GameOver.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.12.07-20.33.02:630][558]LightingResults: New page: Lighting Build
+[2022.12.07-20.33.02:630][558]LoadErrors: New page: Loading map: MAP_GameOver.umap
+[2022.12.07-20.33.02:655][558]LogWorld: UWorld::CleanupWorld for MAP_MainMenu, bSessionEnded=true, bCleanupResources=true
+[2022.12.07-20.33.02:655][558]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.07-20.33.02:655][558]MapCheck: New page: Map Check
+[2022.12.07-20.33.02:655][558]LightingResults: New page: Lighting Build
+[2022.12.07-20.33.02:678][558]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.07-20.33.02:681][558]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2022.12.07-20.33.02:681][558]LogAudio: Display: Audio Device (ID: 1) registered with world 'MAP_GameOver'.
+[2022.12.07-20.33.02:707][558]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.12.07-20.33.02:707][558]LogAIModule: Creating AISystem for world MAP_GameOver
+[2022.12.07-20.33.02:733][558]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2022.12.07-20.33.02:743][558]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.12.07-20.33.02:743][558]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,082ms to complete.
+[2022.12.07-20.33.02:743][558]LogFileHelpers: Loading map 'MAP_GameOver' took 0.113
+[2022.12.07-20.33.03:324][616]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2022.12.07-20.33.03:342][616]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Assets/MAP/MAP_MainMenu.MAP_MainMenu
+[2022.12.07-20.33.03:342][616]Cmd: MAP LOAD FILE="E:/Projet Unreal Engine/Donkey-Kong-UE-4.27.1/DonkeyKong/Content/Assets/MAP/MAP_MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.12.07-20.33.03:342][616]LightingResults: New page: Lighting Build
+[2022.12.07-20.33.03:342][616]LoadErrors: New page: Loading map: MAP_MainMenu.umap
+[2022.12.07-20.33.03:344][616]LogWorld: UWorld::CleanupWorld for MAP_GameOver, bSessionEnded=true, bCleanupResources=true
+[2022.12.07-20.33.03:344][616]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.07-20.33.03:344][616]MapCheck: New page: Map Check
+[2022.12.07-20.33.03:344][616]LightingResults: New page: Lighting Build
+[2022.12.07-20.33.03:365][616]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.07-20.33.03:368][616]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2022.12.07-20.33.03:368][616]LogAudio: Display: Audio Device (ID: 1) registered with world 'MAP_MainMenu'.
+[2022.12.07-20.33.03:396][616]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.12.07-20.33.03:396][616]LogAIModule: Creating AISystem for world MAP_MainMenu
+[2022.12.07-20.33.03:420][616]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2022.12.07-20.33.03:431][616]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.12.07-20.33.03:431][616]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,084ms to complete.
+[2022.12.07-20.33.03:431][616]LogFileHelpers: Loading map 'MAP_MainMenu' took 0.089
+[2022.12.07-20.33.04:129][691]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2022.12.07-20.33.04:140][691]LogLinker: Warning: [AssetLog] E:\Projet Unreal Engine\Donkey-Kong-UE-4.27.1\DonkeyKong\Content\Assets\MAP\MAP_GameOver.umap: Failed to load '/Game/Assets/MAP/MAP_GameOver_BuiltData': Can't find file.
+[2022.12.07-20.33.04:140][691]LogLinker: Warning: [AssetLog] E:\Projet Unreal Engine\Donkey-Kong-UE-4.27.1\DonkeyKong\Content\Assets\MAP\MAP_GameOver.umap: Failed to load '/Game/Assets/MAP/MAP_GameOver_BuiltData': Can't find file.
+[2022.12.07-20.33.04:140][691]LogLinker: Warning: [AssetLog] E:\Projet Unreal Engine\Donkey-Kong-UE-4.27.1\DonkeyKong\Content\Assets\MAP\MAP_GameOver.umap: Failed to load '/Game/Assets/MAP/MAP_GameOver_BuiltData': Can't find file.
+[2022.12.07-20.33.04:140][691]LogLinker: Warning: Failed to load '/Game/Assets/MAP/MAP_GameOver_BuiltData': Can't find file.
+[2022.12.07-20.33.04:141][691]LogLinker: Warning: Failed to load '/Game/Assets/MAP/MAP_GameOver_BuiltData': Can't find file.
+[2022.12.07-20.33.04:144][691]LogLinker: Warning: [AssetLog] E:\Projet Unreal Engine\Donkey-Kong-UE-4.27.1\DonkeyKong\Content\Assets\MAP\MAP_GameOver.umap: Failed to load '/Game/Assets/MAP/MAP_GameOver_BuiltData': Can't find file.
+[2022.12.07-20.33.04:144][691]LoadErrors: Failed to load /Game/Assets/MAP/MAP_GameOver_BuiltData.MAP_GameOver_BuiltData Referenced by PersistentLevel
+[2022.12.07-20.33.04:146][691]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Assets/MAP/MAP_GameOver.MAP_GameOver
+[2022.12.07-20.33.04:147][691]Cmd: MAP LOAD FILE="E:/Projet Unreal Engine/Donkey-Kong-UE-4.27.1/DonkeyKong/Content/Assets/MAP/MAP_GameOver.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.12.07-20.33.04:147][691]LightingResults: New page: Lighting Build
+[2022.12.07-20.33.04:147][691]LoadErrors: New page: Loading map: MAP_GameOver.umap
+[2022.12.07-20.33.04:196][691]LogWorld: UWorld::CleanupWorld for MAP_MainMenu, bSessionEnded=true, bCleanupResources=true
+[2022.12.07-20.33.04:196][691]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.07-20.33.04:196][691]MapCheck: New page: Map Check
+[2022.12.07-20.33.04:196][691]LightingResults: New page: Lighting Build
+[2022.12.07-20.33.04:217][691]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.07-20.33.04:220][691]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2022.12.07-20.33.04:220][691]LogAudio: Display: Audio Device (ID: 1) registered with world 'MAP_GameOver'.
+[2022.12.07-20.33.04:246][691]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.12.07-20.33.04:246][691]LogAIModule: Creating AISystem for world MAP_GameOver
+[2022.12.07-20.33.04:271][691]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2022.12.07-20.33.04:281][691]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.12.07-20.33.04:281][691]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,084ms to complete.
+[2022.12.07-20.33.04:281][691]LogFileHelpers: Loading map 'MAP_GameOver' took 0.135
+[2022.12.07-20.33.04:860][750]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2022.12.07-20.33.04:874][750]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Assets/MAP/MAP_GameOver.MAP_GameOver
+[2022.12.07-20.33.04:875][750]Cmd: MAP LOAD FILE="E:/Projet Unreal Engine/Donkey-Kong-UE-4.27.1/DonkeyKong/Content/Assets/MAP/MAP_GameOver.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.12.07-20.33.04:875][750]LightingResults: New page: Lighting Build
+[2022.12.07-20.33.04:875][750]LoadErrors: New page: Loading map: MAP_GameOver.umap
+[2022.12.07-20.33.04:915][750]LogWorld: UWorld::CleanupWorld for MAP_GameOver, bSessionEnded=true, bCleanupResources=true
+[2022.12.07-20.33.04:916][750]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.07-20.33.04:916][750]MapCheck: New page: Map Check
+[2022.12.07-20.33.04:916][750]LightingResults: New page: Lighting Build
+[2022.12.07-20.33.04:937][750]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.07-20.33.04:939][750]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2022.12.07-20.33.04:941][750]LogLinker: Warning: [AssetLog] E:\Projet Unreal Engine\Donkey-Kong-UE-4.27.1\DonkeyKong\Content\Assets\MAP\MAP_GameOver.umap: Failed to load '/Game/Assets/MAP/MAP_GameOver_BuiltData': Can't find file.
+[2022.12.07-20.33.04:941][750]LogLinker: Warning: [AssetLog] E:\Projet Unreal Engine\Donkey-Kong-UE-4.27.1\DonkeyKong\Content\Assets\MAP\MAP_GameOver.umap: Failed to load '/Game/Assets/MAP/MAP_GameOver_BuiltData': Can't find file.
+[2022.12.07-20.33.04:941][750]LogLinker: Warning: [AssetLog] E:\Projet Unreal Engine\Donkey-Kong-UE-4.27.1\DonkeyKong\Content\Assets\MAP\MAP_GameOver.umap: Failed to load '/Game/Assets/MAP/MAP_GameOver_BuiltData': Can't find file.
+[2022.12.07-20.33.04:941][750]LogLinker: Warning: Failed to load '/Game/Assets/MAP/MAP_GameOver_BuiltData': Can't find file.
+[2022.12.07-20.33.04:942][750]LogLinker: Warning: Failed to load '/Game/Assets/MAP/MAP_GameOver_BuiltData': Can't find file.
+[2022.12.07-20.33.04:945][750]LogLinker: Warning: [AssetLog] E:\Projet Unreal Engine\Donkey-Kong-UE-4.27.1\DonkeyKong\Content\Assets\MAP\MAP_GameOver.umap: Failed to load '/Game/Assets/MAP/MAP_GameOver_BuiltData': Can't find file.
+[2022.12.07-20.33.04:945][750]LoadErrors: Failed to load /Game/Assets/MAP/MAP_GameOver_BuiltData.MAP_GameOver_BuiltData Referenced by PersistentLevel
+[2022.12.07-20.33.04:947][750]LogAudio: Display: Audio Device (ID: 1) registered with world 'MAP_GameOver'.
+[2022.12.07-20.33.04:948][750]LogAIModule: Creating AISystem for world MAP_GameOver
+[2022.12.07-20.33.04:974][750]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.12.07-20.33.05:004][750]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2022.12.07-20.33.05:014][750]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.12.07-20.33.05:014][750]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,087ms to complete.
+[2022.12.07-20.33.05:014][750]LogFileHelpers: Loading map 'MAP_GameOver' took 0.140
+[2022.12.07-20.33.07:224][993]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2022.12.07-20.33.07:274][993]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Assets/MAP/MAP_Game.MAP_Game
+[2022.12.07-20.33.07:274][993]Cmd: MAP LOAD FILE="E:/Projet Unreal Engine/Donkey-Kong-UE-4.27.1/DonkeyKong/Content/Assets/MAP/MAP_Game.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.12.07-20.33.07:274][993]LightingResults: New page: Lighting Build
+[2022.12.07-20.33.07:274][993]LoadErrors: New page: Loading map: MAP_Game.umap
+[2022.12.07-20.33.07:275][993]LogWorld: UWorld::CleanupWorld for MAP_GameOver, bSessionEnded=true, bCleanupResources=true
+[2022.12.07-20.33.07:275][993]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.07-20.33.07:275][993]MapCheck: New page: Map Check
+[2022.12.07-20.33.07:275][993]LightingResults: New page: Lighting Build
+[2022.12.07-20.33.07:296][993]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.07-20.33.07:299][993]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2022.12.07-20.33.07:299][993]LogAudio: Display: Audio Device (ID: 1) registered with world 'MAP_Game'.
+[2022.12.07-20.33.07:332][993]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.12.07-20.33.07:332][993]LogAIModule: Creating AISystem for world MAP_Game
+[2022.12.07-20.33.07:359][993]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2022.12.07-20.33.07:369][993]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.12.07-20.33.07:370][993]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,148ms to complete.
+[2022.12.07-20.33.07:370][993]LogFileHelpers: Loading map 'MAP_Game' took 0.096
+[2022.12.07-20.33.08:205][ 71]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2022.12.07-20.33.08:217][ 71]LogLinker: Warning: [AssetLog] E:\Projet Unreal Engine\Donkey-Kong-UE-4.27.1\DonkeyKong\Content\Assets\MAP\MAP_GameOver.umap: Failed to load '/Game/Assets/MAP/MAP_GameOver_BuiltData': Can't find file.
+[2022.12.07-20.33.08:217][ 71]LogLinker: Warning: [AssetLog] E:\Projet Unreal Engine\Donkey-Kong-UE-4.27.1\DonkeyKong\Content\Assets\MAP\MAP_GameOver.umap: Failed to load '/Game/Assets/MAP/MAP_GameOver_BuiltData': Can't find file.
+[2022.12.07-20.33.08:217][ 71]LogLinker: Warning: [AssetLog] E:\Projet Unreal Engine\Donkey-Kong-UE-4.27.1\DonkeyKong\Content\Assets\MAP\MAP_GameOver.umap: Failed to load '/Game/Assets/MAP/MAP_GameOver_BuiltData': Can't find file.
+[2022.12.07-20.33.08:218][ 71]LogLinker: Warning: Failed to load '/Game/Assets/MAP/MAP_GameOver_BuiltData': Can't find file.
+[2022.12.07-20.33.08:218][ 71]LogLinker: Warning: Failed to load '/Game/Assets/MAP/MAP_GameOver_BuiltData': Can't find file.
+[2022.12.07-20.33.08:222][ 71]LogLinker: Warning: [AssetLog] E:\Projet Unreal Engine\Donkey-Kong-UE-4.27.1\DonkeyKong\Content\Assets\MAP\MAP_GameOver.umap: Failed to load '/Game/Assets/MAP/MAP_GameOver_BuiltData': Can't find file.
+[2022.12.07-20.33.08:222][ 71]LoadErrors: Failed to load /Game/Assets/MAP/MAP_GameOver_BuiltData.MAP_GameOver_BuiltData Referenced by PersistentLevel
+[2022.12.07-20.33.08:224][ 71]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Assets/MAP/MAP_GameOver.MAP_GameOver
+[2022.12.07-20.33.08:224][ 71]Cmd: MAP LOAD FILE="E:/Projet Unreal Engine/Donkey-Kong-UE-4.27.1/DonkeyKong/Content/Assets/MAP/MAP_GameOver.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.12.07-20.33.08:224][ 71]LightingResults: New page: Lighting Build
+[2022.12.07-20.33.08:224][ 71]LoadErrors: New page: Loading map: MAP_GameOver.umap
+[2022.12.07-20.33.08:228][ 71]LogWorld: UWorld::CleanupWorld for MAP_Game, bSessionEnded=true, bCleanupResources=true
+[2022.12.07-20.33.08:228][ 71]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.07-20.33.08:228][ 71]MapCheck: New page: Map Check
+[2022.12.07-20.33.08:228][ 71]LightingResults: New page: Lighting Build
+[2022.12.07-20.33.08:248][ 71]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.07-20.33.08:251][ 71]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2022.12.07-20.33.08:252][ 71]LogAudio: Display: Audio Device (ID: 1) registered with world 'MAP_GameOver'.
+[2022.12.07-20.33.08:277][ 71]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.12.07-20.33.08:277][ 71]LogAIModule: Creating AISystem for world MAP_GameOver
+[2022.12.07-20.33.08:303][ 71]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2022.12.07-20.33.08:317][ 71]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.12.07-20.33.08:317][ 71]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,094ms to complete.
+[2022.12.07-20.33.08:317][ 71]LogFileHelpers: Loading map 'MAP_GameOver' took 0.093
+[2022.12.07-20.33.08:746][114]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2022.12.07-20.33.08:764][114]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Assets/MAP/MAP_MainMenu.MAP_MainMenu
+[2022.12.07-20.33.08:764][114]Cmd: MAP LOAD FILE="E:/Projet Unreal Engine/Donkey-Kong-UE-4.27.1/DonkeyKong/Content/Assets/MAP/MAP_MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.12.07-20.33.08:764][114]LightingResults: New page: Lighting Build
+[2022.12.07-20.33.08:764][114]LoadErrors: New page: Loading map: MAP_MainMenu.umap
+[2022.12.07-20.33.08:766][114]LogWorld: UWorld::CleanupWorld for MAP_GameOver, bSessionEnded=true, bCleanupResources=true
+[2022.12.07-20.33.08:766][114]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.07-20.33.08:766][114]MapCheck: New page: Map Check
+[2022.12.07-20.33.08:766][114]LightingResults: New page: Lighting Build
+[2022.12.07-20.33.08:788][114]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.07-20.33.08:793][114]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2022.12.07-20.33.08:794][114]LogAudio: Display: Audio Device (ID: 1) registered with world 'MAP_MainMenu'.
+[2022.12.07-20.33.08:818][114]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.12.07-20.33.08:818][114]LogAIModule: Creating AISystem for world MAP_MainMenu
+[2022.12.07-20.33.08:843][114]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2022.12.07-20.33.08:854][114]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.12.07-20.33.08:854][114]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,089ms to complete.
+[2022.12.07-20.33.08:854][114]LogFileHelpers: Loading map 'MAP_MainMenu' took 0.089
+[2022.12.07-20.33.09:148][142]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2022.12.07-20.33.09:162][142]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Assets/MAP/MAP_MainMenu.MAP_MainMenu
+[2022.12.07-20.33.09:162][142]Cmd: MAP LOAD FILE="E:/Projet Unreal Engine/Donkey-Kong-UE-4.27.1/DonkeyKong/Content/Assets/MAP/MAP_MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.12.07-20.33.09:162][142]LightingResults: New page: Lighting Build
+[2022.12.07-20.33.09:162][142]LoadErrors: New page: Loading map: MAP_MainMenu.umap
+[2022.12.07-20.33.09:164][142]LogWorld: UWorld::CleanupWorld for MAP_MainMenu, bSessionEnded=true, bCleanupResources=true
+[2022.12.07-20.33.09:164][142]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.07-20.33.09:164][142]MapCheck: New page: Map Check
+[2022.12.07-20.33.09:165][142]LightingResults: New page: Lighting Build
+[2022.12.07-20.33.09:188][142]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.07-20.33.09:190][142]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2022.12.07-20.33.09:195][142]LogAudio: Display: Audio Device (ID: 1) registered with world 'MAP_MainMenu'.
+[2022.12.07-20.33.09:196][142]LogAIModule: Creating AISystem for world MAP_MainMenu
+[2022.12.07-20.33.09:220][142]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.12.07-20.33.09:246][142]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2022.12.07-20.33.09:258][142]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.12.07-20.33.09:259][142]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,091ms to complete.
+[2022.12.07-20.33.09:259][142]LogFileHelpers: Loading map 'MAP_MainMenu' took 0.096
+[2022.12.07-20.33.11:021][342]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2022.12.07-20.33.11:056][342]LogLinker: Warning: [AssetLog] E:\Projet Unreal Engine\Donkey-Kong-UE-4.27.1\DonkeyKong\Content\Assets\MAP\MAP_GameOver.umap: Failed to load '/Game/Assets/MAP/MAP_GameOver_BuiltData': Can't find file.
+[2022.12.07-20.33.11:056][342]LogLinker: Warning: [AssetLog] E:\Projet Unreal Engine\Donkey-Kong-UE-4.27.1\DonkeyKong\Content\Assets\MAP\MAP_GameOver.umap: Failed to load '/Game/Assets/MAP/MAP_GameOver_BuiltData': Can't find file.
+[2022.12.07-20.33.11:057][342]LogLinker: Warning: [AssetLog] E:\Projet Unreal Engine\Donkey-Kong-UE-4.27.1\DonkeyKong\Content\Assets\MAP\MAP_GameOver.umap: Failed to load '/Game/Assets/MAP/MAP_GameOver_BuiltData': Can't find file.
+[2022.12.07-20.33.11:058][342]LogLinker: Warning: Failed to load '/Game/Assets/MAP/MAP_GameOver_BuiltData': Can't find file.
+[2022.12.07-20.33.11:058][342]LogLinker: Warning: Failed to load '/Game/Assets/MAP/MAP_GameOver_BuiltData': Can't find file.
+[2022.12.07-20.33.11:062][342]LogLinker: Warning: [AssetLog] E:\Projet Unreal Engine\Donkey-Kong-UE-4.27.1\DonkeyKong\Content\Assets\MAP\MAP_GameOver.umap: Failed to load '/Game/Assets/MAP/MAP_GameOver_BuiltData': Can't find file.
+[2022.12.07-20.33.11:062][342]LoadErrors: Failed to load /Game/Assets/MAP/MAP_GameOver_BuiltData.MAP_GameOver_BuiltData Referenced by PersistentLevel
+[2022.12.07-20.33.11:066][342]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Assets/MAP/MAP_GameOver.MAP_GameOver
+[2022.12.07-20.33.11:066][342]Cmd: MAP LOAD FILE="E:/Projet Unreal Engine/Donkey-Kong-UE-4.27.1/DonkeyKong/Content/Assets/MAP/MAP_GameOver.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.12.07-20.33.11:066][342]LightingResults: New page: Lighting Build
+[2022.12.07-20.33.11:066][342]LoadErrors: New page: Loading map: MAP_GameOver.umap
+[2022.12.07-20.33.11:107][342]LogWorld: UWorld::CleanupWorld for MAP_MainMenu, bSessionEnded=true, bCleanupResources=true
+[2022.12.07-20.33.11:107][342]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.07-20.33.11:107][342]MapCheck: New page: Map Check
+[2022.12.07-20.33.11:107][342]LightingResults: New page: Lighting Build
+[2022.12.07-20.33.11:130][342]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.07-20.33.11:133][342]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2022.12.07-20.33.11:133][342]LogAudio: Display: Audio Device (ID: 1) registered with world 'MAP_GameOver'.
+[2022.12.07-20.33.11:159][342]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.12.07-20.33.11:159][342]LogAIModule: Creating AISystem for world MAP_GameOver
+[2022.12.07-20.33.11:185][342]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2022.12.07-20.33.11:197][342]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.12.07-20.33.11:198][342]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,089ms to complete.
+[2022.12.07-20.33.11:198][342]LogFileHelpers: Loading map 'MAP_GameOver' took 0.132
+[2022.12.07-20.33.12:010][431]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2022.12.07-20.33.12:021][431]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Assets/MAP/MAP_GameOver.MAP_GameOver
+[2022.12.07-20.33.12:021][431]Cmd: MAP LOAD FILE="E:/Projet Unreal Engine/Donkey-Kong-UE-4.27.1/DonkeyKong/Content/Assets/MAP/MAP_GameOver.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.12.07-20.33.12:021][431]LightingResults: New page: Lighting Build
+[2022.12.07-20.33.12:021][431]LoadErrors: New page: Loading map: MAP_GameOver.umap
+[2022.12.07-20.33.12:023][431]LogWorld: UWorld::CleanupWorld for MAP_GameOver, bSessionEnded=true, bCleanupResources=true
+[2022.12.07-20.33.12:023][431]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.07-20.33.12:023][431]MapCheck: New page: Map Check
+[2022.12.07-20.33.12:023][431]LightingResults: New page: Lighting Build
+[2022.12.07-20.33.12:044][431]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.07-20.33.12:047][431]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2022.12.07-20.33.12:048][431]LogLinker: Warning: [AssetLog] E:\Projet Unreal Engine\Donkey-Kong-UE-4.27.1\DonkeyKong\Content\Assets\MAP\MAP_GameOver.umap: Failed to load '/Game/Assets/MAP/MAP_GameOver_BuiltData': Can't find file.
+[2022.12.07-20.33.12:049][431]LogLinker: Warning: [AssetLog] E:\Projet Unreal Engine\Donkey-Kong-UE-4.27.1\DonkeyKong\Content\Assets\MAP\MAP_GameOver.umap: Failed to load '/Game/Assets/MAP/MAP_GameOver_BuiltData': Can't find file.
+[2022.12.07-20.33.12:049][431]LogLinker: Warning: [AssetLog] E:\Projet Unreal Engine\Donkey-Kong-UE-4.27.1\DonkeyKong\Content\Assets\MAP\MAP_GameOver.umap: Failed to load '/Game/Assets/MAP/MAP_GameOver_BuiltData': Can't find file.
+[2022.12.07-20.33.12:049][431]LogLinker: Warning: Failed to load '/Game/Assets/MAP/MAP_GameOver_BuiltData': Can't find file.
+[2022.12.07-20.33.12:049][431]LogLinker: Warning: Failed to load '/Game/Assets/MAP/MAP_GameOver_BuiltData': Can't find file.
+[2022.12.07-20.33.12:054][431]LogLinker: Warning: [AssetLog] E:\Projet Unreal Engine\Donkey-Kong-UE-4.27.1\DonkeyKong\Content\Assets\MAP\MAP_GameOver.umap: Failed to load '/Game/Assets/MAP/MAP_GameOver_BuiltData': Can't find file.
+[2022.12.07-20.33.12:054][431]LoadErrors: Failed to load /Game/Assets/MAP/MAP_GameOver_BuiltData.MAP_GameOver_BuiltData Referenced by PersistentLevel
+[2022.12.07-20.33.12:055][431]LogAudio: Display: Audio Device (ID: 1) registered with world 'MAP_GameOver'.
+[2022.12.07-20.33.12:056][431]LogAIModule: Creating AISystem for world MAP_GameOver
+[2022.12.07-20.33.12:081][431]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.12.07-20.33.12:111][431]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2022.12.07-20.33.12:121][431]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.12.07-20.33.12:121][431]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,097ms to complete.
+[2022.12.07-20.33.12:121][431]LogFileHelpers: Loading map 'MAP_GameOver' took 0.100
+[2022.12.07-20.33.15:848][860]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2022.12.07-20.33.15:883][860]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Assets/MAP/MAP_MainMenu.MAP_MainMenu
+[2022.12.07-20.33.15:883][860]Cmd: MAP LOAD FILE="E:/Projet Unreal Engine/Donkey-Kong-UE-4.27.1/DonkeyKong/Content/Assets/MAP/MAP_MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.12.07-20.33.15:883][860]LightingResults: New page: Lighting Build
+[2022.12.07-20.33.15:883][860]LoadErrors: New page: Loading map: MAP_MainMenu.umap
+[2022.12.07-20.33.15:885][860]LogWorld: UWorld::CleanupWorld for MAP_GameOver, bSessionEnded=true, bCleanupResources=true
+[2022.12.07-20.33.15:885][860]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.07-20.33.15:885][860]MapCheck: New page: Map Check
+[2022.12.07-20.33.15:885][860]LightingResults: New page: Lighting Build
+[2022.12.07-20.33.15:908][860]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.07-20.33.15:912][860]LogUObjectHash: Compacting FUObjectHashTables data took   3.47ms
+[2022.12.07-20.33.15:913][860]LogAudio: Display: Audio Device (ID: 1) registered with world 'MAP_MainMenu'.
+[2022.12.07-20.33.15:938][860]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.12.07-20.33.15:938][860]LogAIModule: Creating AISystem for world MAP_MainMenu
+[2022.12.07-20.33.15:963][860]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2022.12.07-20.33.15:975][860]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.12.07-20.33.15:975][860]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,09ms to complete.
+[2022.12.07-20.33.15:975][860]LogFileHelpers: Loading map 'MAP_MainMenu' took 0.092
+[2022.12.07-20.33.16:675][934]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.12.07-20.33.16:695][934]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Assets/MAP/MAP_MainMenu.MAP_MainMenu
+[2022.12.07-20.33.16:695][934]Cmd: MAP LOAD FILE="E:/Projet Unreal Engine/Donkey-Kong-UE-4.27.1/DonkeyKong/Content/Assets/MAP/MAP_MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.12.07-20.33.16:695][934]LightingResults: New page: Lighting Build
+[2022.12.07-20.33.16:695][934]LoadErrors: New page: Loading map: MAP_MainMenu.umap
+[2022.12.07-20.33.16:697][934]LogWorld: UWorld::CleanupWorld for MAP_MainMenu, bSessionEnded=true, bCleanupResources=true
+[2022.12.07-20.33.16:697][934]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.07-20.33.16:697][934]MapCheck: New page: Map Check
+[2022.12.07-20.33.16:697][934]LightingResults: New page: Lighting Build
+[2022.12.07-20.33.16:721][934]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.07-20.33.16:725][934]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2022.12.07-20.33.16:731][934]LogAudio: Display: Audio Device (ID: 1) registered with world 'MAP_MainMenu'.
+[2022.12.07-20.33.16:732][934]LogAIModule: Creating AISystem for world MAP_MainMenu
+[2022.12.07-20.33.16:756][934]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.12.07-20.33.16:783][934]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2022.12.07-20.33.16:795][934]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.12.07-20.33.16:795][934]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,099ms to complete.
+[2022.12.07-20.33.16:795][934]LogFileHelpers: Loading map 'MAP_MainMenu' took 0.100
+[2022.12.07-20.33.17:601][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2022.12.07-20.33.17:628][ 22]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Assets/MAP/MAP_MainMenu.MAP_MainMenu
+[2022.12.07-20.33.17:628][ 22]Cmd: MAP LOAD FILE="E:/Projet Unreal Engine/Donkey-Kong-UE-4.27.1/DonkeyKong/Content/Assets/MAP/MAP_MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.12.07-20.33.17:628][ 22]LightingResults: New page: Lighting Build
+[2022.12.07-20.33.17:628][ 22]LoadErrors: New page: Loading map: MAP_MainMenu.umap
+[2022.12.07-20.33.17:629][ 22]LogWorld: UWorld::CleanupWorld for MAP_MainMenu, bSessionEnded=true, bCleanupResources=true
+[2022.12.07-20.33.17:630][ 22]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.07-20.33.17:630][ 22]MapCheck: New page: Map Check
+[2022.12.07-20.33.17:630][ 22]LightingResults: New page: Lighting Build
+[2022.12.07-20.33.17:651][ 22]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.07-20.33.17:653][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2022.12.07-20.33.17:659][ 22]LogAudio: Display: Audio Device (ID: 1) registered with world 'MAP_MainMenu'.
+[2022.12.07-20.33.17:659][ 22]LogAIModule: Creating AISystem for world MAP_MainMenu
+[2022.12.07-20.33.17:685][ 22]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.12.07-20.33.17:710][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2022.12.07-20.33.17:720][ 22]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.12.07-20.33.17:721][ 22]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,099ms to complete.
+[2022.12.07-20.33.17:721][ 22]LogFileHelpers: Loading map 'MAP_MainMenu' took 0.093
+[2022.12.07-20.33.18:153][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2022.12.07-20.33.18:164][ 66]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Assets/MAP/MAP_MainMenu.MAP_MainMenu
+[2022.12.07-20.33.18:164][ 66]Cmd: MAP LOAD FILE="E:/Projet Unreal Engine/Donkey-Kong-UE-4.27.1/DonkeyKong/Content/Assets/MAP/MAP_MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.12.07-20.33.18:164][ 66]LightingResults: New page: Lighting Build
+[2022.12.07-20.33.18:164][ 66]LoadErrors: New page: Loading map: MAP_MainMenu.umap
+[2022.12.07-20.33.18:187][ 66]LogWorld: UWorld::CleanupWorld for MAP_MainMenu, bSessionEnded=true, bCleanupResources=true
+[2022.12.07-20.33.18:187][ 66]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.07-20.33.18:187][ 66]MapCheck: New page: Map Check
+[2022.12.07-20.33.18:187][ 66]LightingResults: New page: Lighting Build
+[2022.12.07-20.33.18:210][ 66]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.07-20.33.18:212][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2022.12.07-20.33.18:218][ 66]LogAudio: Display: Audio Device (ID: 1) registered with world 'MAP_MainMenu'.
+[2022.12.07-20.33.18:218][ 66]LogAIModule: Creating AISystem for world MAP_MainMenu
+[2022.12.07-20.33.18:243][ 66]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.12.07-20.33.18:268][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2022.12.07-20.33.18:279][ 66]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.12.07-20.33.18:280][ 66]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,098ms to complete.
+[2022.12.07-20.33.18:280][ 66]LogFileHelpers: Loading map 'MAP_MainMenu' took 0.115
+[2022.12.07-20.33.20:876][355]LogTemp: Repeating last play command: Selected Viewport
+[2022.12.07-20.33.20:883][355]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.07-20.33.20:883][355]PIE: New page: PIE session: MAP_MainMenu (7 déc. 2022 à 22:33:20)
+[2022.12.07-20.33.20:916][355]LogPlayLevel: Creating play world package: /Game/Assets/MAP/UEDPIE_0_MAP_MainMenu
+[2022.12.07-20.33.20:917][355]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001043s)
+[2022.12.07-20.33.20:918][355]LogAIModule: Creating AISystem for world MAP_MainMenu
+[2022.12.07-20.33.20:918][355]LogPlayLevel: PIE: World Init took: (0.000955s)
+[2022.12.07-20.33.20:918][355]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/MAP/MAP_MainMenu.MAP_MainMenu to /Game/Assets/MAP/UEDPIE_0_MAP_MainMenu.MAP_MainMenu (0.002140s)
+[2022.12.07-20.33.20:942][355]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2022.12.07-20.33.20:943][355]LogAudio: Display: Creating Audio Device:                 Id: 25, Scope: Unique, Realtime: True
+[2022.12.07-20.33.20:943][355]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.07-20.33.20:943][355]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.07-20.33.20:943][355]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.07-20.33.20:943][355]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.07-20.33.20:943][355]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.07-20.33.20:943][355]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.12.07-20.33.20:943][355]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.07-20.33.20:943][355]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.07-20.33.20:944][355]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.07-20.33.20:944][355]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.07-20.33.20:944][355]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.07-20.33.20:944][355]LogAudioMixer: Display: Initializing audio mixer.
+[2022.12.07-20.33.20:949][355]LogAudioMixer: Display: 0: FrontLeft
+[2022.12.07-20.33.20:949][355]LogAudioMixer: Display: 1: FrontRight
+[2022.12.07-20.33.20:949][355]LogAudioMixer: Display: 2: FrontCenter
+[2022.12.07-20.33.20:949][355]LogAudioMixer: Display: 3: LowFrequency
+[2022.12.07-20.33.20:949][355]LogAudioMixer: Display: 4: BackLeft
+[2022.12.07-20.33.20:949][355]LogAudioMixer: Display: 5: BackRight
+[2022.12.07-20.33.20:949][355]LogAudioMixer: Display: 6: SideLeft
+[2022.12.07-20.33.20:949][355]LogAudioMixer: Display: 7: SideRight
+[2022.12.07-20.33.20:969][355]LogAudioMixer: Display: Using Audio Device 7.1 Game Sound (2- Teufel Gaming Headset)
+[2022.12.07-20.33.20:970][355]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.07-20.33.20:970][355]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.07-20.33.20:970][355]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.07-20.33.20:970][355]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.12.07-20.33.20:970][355]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.12.07-20.33.20:970][355]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2022.12.07-20.33.20:971][355]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.12.07-20.33.20:971][355]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.12.07-20.33.20:971][355]LogInit: FAudioDevice initialized.
+[2022.12.07-20.33.20:972][355]LogAudio: Display: Audio Device (ID: 25) registered with world 'MAP_MainMenu'.
+[2022.12.07-20.33.20:980][355]LogLoad: Game class is 'GameManager_C'
+[2022.12.07-20.33.20:980][355]LogWorld: Bringing World /Game/Assets/MAP/UEDPIE_0_MAP_MainMenu.MAP_MainMenu up for play (max tick rate 0) at 2022.12.07-21.33.20
+[2022.12.07-20.33.20:980][355]LogWorld: Bringing up level for play took: 0.000274
+[2022.12.07-20.33.20:980][355]LogOnline: OSS: Creating online subsystem instance for: :Context_45
+[2022.12.07-20.33.20:983][355]LogBlueprintUserMessages: [GameManager_C_0] Data Loaded
+[2022.12.07-20.33.20:983][355]PIE: Server logged in
+[2022.12.07-20.33.20:984][355]PIE: Play in editor total start time 0,102 seconds.
+[2022.12.07-20.33.20:985][355]LogInput: Error: Duplicate mapping of key Gamepad_LeftY for axis MoveUp
+[2022.12.07-20.33.21:928][463]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.07-20.33.21:928][463]LogWorld: BeginTearingDown for /Game/Assets/MAP/UEDPIE_0_MAP_MainMenu
+[2022.12.07-20.33.21:928][463]LogWorld: UWorld::CleanupWorld for MAP_MainMenu, bSessionEnded=true, bCleanupResources=true
+[2022.12.07-20.33.21:928][463]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.07-20.33.21:937][463]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.07-20.33.21:941][463]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.07-20.33.21:963][463]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.07-20.33.21:963][463]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.07-20.33.21:964][463]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.07-20.33.21:971][463]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2022.12.07-20.33.22:018][467]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2022.12.07-20.33.22:609][532]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2022.12.07-20.33.22:615][532]LogSavePackage: Moving 'E:/Projet Unreal Engine/Donkey-Kong-UE-4.27.1/DonkeyKong/Saved/MAP_MainMenuA69C21E341B2E472B35DCAAE81B349FE.tmp' to 'E:/Projet Unreal Engine/Donkey-Kong-UE-4.27.1/DonkeyKong/Content/Assets/MAP/MAP_MainMenu.umap'
+[2022.12.07-20.33.22:638][532]AssetCheck: New page: Asset Save: MAP_MainMenu
+[2022.12.07-20.33.22:638][532]LogContentValidation: Display: Validating World /Game/Assets/MAP/MAP_MainMenu.MAP_MainMenu
+[2022.12.07-20.33.24:243][719]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2022.12.07-20.33.24:276][719]LogLinker: Warning: [AssetLog] E:\Projet Unreal Engine\Donkey-Kong-UE-4.27.1\DonkeyKong\Content\Assets\MAP\MAP_GameOver.umap: Failed to load '/Game/Assets/MAP/MAP_GameOver_BuiltData': Can't find file.
+[2022.12.07-20.33.24:277][719]LogLinker: Warning: [AssetLog] E:\Projet Unreal Engine\Donkey-Kong-UE-4.27.1\DonkeyKong\Content\Assets\MAP\MAP_GameOver.umap: Failed to load '/Game/Assets/MAP/MAP_GameOver_BuiltData': Can't find file.
+[2022.12.07-20.33.24:277][719]LogLinker: Warning: [AssetLog] E:\Projet Unreal Engine\Donkey-Kong-UE-4.27.1\DonkeyKong\Content\Assets\MAP\MAP_GameOver.umap: Failed to load '/Game/Assets/MAP/MAP_GameOver_BuiltData': Can't find file.
+[2022.12.07-20.33.24:277][719]LogLinker: Warning: Failed to load '/Game/Assets/MAP/MAP_GameOver_BuiltData': Can't find file.
+[2022.12.07-20.33.24:277][719]LogLinker: Warning: Failed to load '/Game/Assets/MAP/MAP_GameOver_BuiltData': Can't find file.
+[2022.12.07-20.33.24:281][719]LogLinker: Warning: [AssetLog] E:\Projet Unreal Engine\Donkey-Kong-UE-4.27.1\DonkeyKong\Content\Assets\MAP\MAP_GameOver.umap: Failed to load '/Game/Assets/MAP/MAP_GameOver_BuiltData': Can't find file.
+[2022.12.07-20.33.24:281][719]LoadErrors: Failed to load /Game/Assets/MAP/MAP_GameOver_BuiltData.MAP_GameOver_BuiltData Referenced by PersistentLevel
+[2022.12.07-20.33.24:283][719]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Assets/MAP/MAP_GameOver.MAP_GameOver
+[2022.12.07-20.33.24:283][719]Cmd: MAP LOAD FILE="E:/Projet Unreal Engine/Donkey-Kong-UE-4.27.1/DonkeyKong/Content/Assets/MAP/MAP_GameOver.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.12.07-20.33.24:283][719]LightingResults: New page: Lighting Build
+[2022.12.07-20.33.24:283][719]LoadErrors: New page: Loading map: MAP_GameOver.umap
+[2022.12.07-20.33.24:285][719]LogWorld: UWorld::CleanupWorld for MAP_MainMenu, bSessionEnded=true, bCleanupResources=true
+[2022.12.07-20.33.24:285][719]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.07-20.33.24:285][719]MapCheck: New page: Map Check
+[2022.12.07-20.33.24:285][719]LightingResults: New page: Lighting Build
+[2022.12.07-20.33.24:307][719]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.07-20.33.24:311][719]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2022.12.07-20.33.24:311][719]LogAudio: Display: Audio Device (ID: 1) registered with world 'MAP_GameOver'.
+[2022.12.07-20.33.24:336][719]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.12.07-20.33.24:336][719]LogAIModule: Creating AISystem for world MAP_GameOver
+[2022.12.07-20.33.24:361][719]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2022.12.07-20.33.24:374][719]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.12.07-20.33.24:374][719]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,087ms to complete.
+[2022.12.07-20.33.24:374][719]LogFileHelpers: Loading map 'MAP_GameOver' took 0.091
+[2022.12.07-20.33.26:165][928]LogTemp: Repeating last play command: Selected Viewport
+[2022.12.07-20.33.26:172][928]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.07-20.33.26:172][928]PIE: New page: PIE session: MAP_GameOver (7 déc. 2022 à 22:33:26)
+[2022.12.07-20.33.26:172][928]LogPlayLevel: Creating play world package: /Game/Assets/MAP/UEDPIE_0_MAP_GameOver
+[2022.12.07-20.33.26:173][928]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001212s)
+[2022.12.07-20.33.26:174][928]LogAIModule: Creating AISystem for world MAP_GameOver
+[2022.12.07-20.33.26:174][928]LogPlayLevel: PIE: World Init took: (0.000991s)
+[2022.12.07-20.33.26:174][928]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/MAP/MAP_GameOver.MAP_GameOver to /Game/Assets/MAP/UEDPIE_0_MAP_GameOver.MAP_GameOver (0.002310s)
+[2022.12.07-20.33.26:197][928]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2022.12.07-20.33.26:197][928]LogAudio: Display: Creating Audio Device:                 Id: 26, Scope: Unique, Realtime: True
+[2022.12.07-20.33.26:197][928]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.07-20.33.26:197][928]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.07-20.33.26:197][928]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.07-20.33.26:197][928]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.07-20.33.26:197][928]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.07-20.33.26:197][928]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.12.07-20.33.26:197][928]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.07-20.33.26:197][928]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.07-20.33.26:198][928]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.07-20.33.26:198][928]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.07-20.33.26:198][928]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.07-20.33.26:198][928]LogAudioMixer: Display: Initializing audio mixer.
+[2022.12.07-20.33.26:202][928]LogAudioMixer: Display: 0: FrontLeft
+[2022.12.07-20.33.26:202][928]LogAudioMixer: Display: 1: FrontRight
+[2022.12.07-20.33.26:202][928]LogAudioMixer: Display: 2: FrontCenter
+[2022.12.07-20.33.26:202][928]LogAudioMixer: Display: 3: LowFrequency
+[2022.12.07-20.33.26:202][928]LogAudioMixer: Display: 4: BackLeft
+[2022.12.07-20.33.26:202][928]LogAudioMixer: Display: 5: BackRight
+[2022.12.07-20.33.26:202][928]LogAudioMixer: Display: 6: SideLeft
+[2022.12.07-20.33.26:202][928]LogAudioMixer: Display: 7: SideRight
+[2022.12.07-20.33.26:222][928]LogAudioMixer: Display: Using Audio Device 7.1 Game Sound (2- Teufel Gaming Headset)
+[2022.12.07-20.33.26:222][928]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.07-20.33.26:222][928]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.07-20.33.26:222][928]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.07-20.33.26:223][928]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.12.07-20.33.26:223][928]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.12.07-20.33.26:223][928]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2022.12.07-20.33.26:224][928]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.12.07-20.33.26:224][928]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.12.07-20.33.26:224][928]LogInit: FAudioDevice initialized.
+[2022.12.07-20.33.26:224][928]LogAudio: Display: Audio Device (ID: 26) registered with world 'MAP_GameOver'.
+[2022.12.07-20.33.26:231][928]LogLoad: Game class is 'GameManager_C'
+[2022.12.07-20.33.26:232][928]LogWorld: Bringing World /Game/Assets/MAP/UEDPIE_0_MAP_GameOver.MAP_GameOver up for play (max tick rate 0) at 2022.12.07-21.33.26
+[2022.12.07-20.33.26:232][928]LogWorld: Bringing up level for play took: 0.000274
+[2022.12.07-20.33.26:232][928]LogOnline: OSS: Creating online subsystem instance for: :Context_46
+[2022.12.07-20.33.26:235][928]LogBlueprintUserMessages: [GameManager_C_0] Data Loaded
+[2022.12.07-20.33.26:235][928]PIE: Server logged in
+[2022.12.07-20.33.26:236][928]PIE: Play in editor total start time 0,065 seconds.
+[2022.12.07-20.33.26:237][928]LogInput: Error: Duplicate mapping of key Gamepad_LeftY for axis MoveUp
+[2022.12.07-20.33.28:057][119]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.07-20.33.28:058][119]LogWorld: BeginTearingDown for /Game/Assets/MAP/UEDPIE_0_MAP_GameOver
+[2022.12.07-20.33.28:058][119]LogWorld: UWorld::CleanupWorld for MAP_GameOver, bSessionEnded=true, bCleanupResources=true
+[2022.12.07-20.33.28:058][119]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.07-20.33.28:067][119]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.07-20.33.28:072][119]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.07-20.33.28:094][119]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.07-20.33.28:094][119]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.07-20.33.28:095][119]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.07-20.33.28:100][119]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2022.12.07-20.33.28:125][121]LogPlayLevel: Display: Destroying online subsystem :Context_46
+[2022.12.07-20.33.29:344][258]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2022.12.07-20.33.29:387][258]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Assets/MAP/MAP_MainMenu.MAP_MainMenu
+[2022.12.07-20.33.29:387][258]Cmd: MAP LOAD FILE="E:/Projet Unreal Engine/Donkey-Kong-UE-4.27.1/DonkeyKong/Content/Assets/MAP/MAP_MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.12.07-20.33.29:387][258]LightingResults: New page: Lighting Build
+[2022.12.07-20.33.29:387][258]LoadErrors: New page: Loading map: MAP_MainMenu.umap
+[2022.12.07-20.33.29:428][258]LogWorld: UWorld::CleanupWorld for MAP_GameOver, bSessionEnded=true, bCleanupResources=true
+[2022.12.07-20.33.29:428][258]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.07-20.33.29:428][258]MapCheck: New page: Map Check
+[2022.12.07-20.33.29:428][258]LightingResults: New page: Lighting Build
+[2022.12.07-20.33.29:450][258]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.07-20.33.29:455][258]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2022.12.07-20.33.29:455][258]LogAudio: Display: Audio Device (ID: 1) registered with world 'MAP_MainMenu'.
+[2022.12.07-20.33.29:484][258]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.12.07-20.33.29:484][258]LogAIModule: Creating AISystem for world MAP_MainMenu
+[2022.12.07-20.33.29:509][258]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2022.12.07-20.33.29:520][258]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.12.07-20.33.29:520][258]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,101ms to complete.
+[2022.12.07-20.33.29:520][258]LogFileHelpers: Loading map 'MAP_MainMenu' took 0.133
+[2022.12.07-20.33.33:116][662]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Assets/UI/GameOverScore.GameOverScore
+[2022.12.07-20.33.34:321][663]LogSlate: Took 0.057874 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2022.12.07-20.33.51:004][623]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2022.12.07-20.33.51:004][623]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.07-20.33.51:319][648]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.12.07-20.33.51:319][648]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2022.12.07-20.33.51:319][648]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.07-20.33.51:945][716]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.12.07-20.33.51:945][716]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2022.12.07-20.33.51:945][716]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.07-20.42.17:547][659]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Assets/Blueprint/GameManager.GameManager
+[2022.12.07-20.42.24:395][419]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2022.12.07-20.42.24:395][419]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.07-20.42.31:096][193]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Assets/UI/MainMenu.MainMenu
+[2022.12.07-20.42.33:688][440]LogSlate: Window 'MainMenu' being destroyed
+[2022.12.07-20.42.44:871][737]BlueprintLog: New page: Compile MainMenu
+[2022.12.07-20.42.44:934][737]LogUObjectHash: Compacting FUObjectHashTables data took   4.66ms
+[2022.12.07-20.42.45:417][784]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/UI/MainMenu" FILE="E:/Projet Unreal Engine/Donkey-Kong-UE-4.27.1/DonkeyKong/Content/Assets/UI/MainMenu.uasset" SILENT=true
+[2022.12.07-20.42.45:422][784]LogSavePackage: Moving 'E:/Projet Unreal Engine/Donkey-Kong-UE-4.27.1/DonkeyKong/Saved/MainMenu2605B2F549F1697AA646DAB558CD8DB4.tmp' to 'E:/Projet Unreal Engine/Donkey-Kong-UE-4.27.1/DonkeyKong/Content/Assets/UI/MainMenu.uasset'
+[2022.12.07-20.42.45:434][784]AssetCheck: New page: Asset Save: MainMenu
+[2022.12.07-20.42.45:434][784]LogContentValidation: Display: Validating WidgetBlueprint /Game/Assets/UI/MainMenu.MainMenu
+[2022.12.07-20.42.52:218][559]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2022.12.07-20.42.52:219][559]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.07-20.42.52:227][559]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2022.12.07-20.42.52:227][559]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.07-20.42.53:652][718]LogUObjectHash: Compacting FUObjectHashTables data took   4.07ms
+[2022.12.07-20.44.40:278][487]LogUObjectHash: Compacting FUObjectHashTables data took   4.29ms
+[2022.12.07-20.44.40:297][487]LogLinker: Warning: [AssetLog] E:\Projet Unreal Engine\Donkey-Kong-UE-4.27.1\DonkeyKong\Content\Assets\MAP\MAP_GameOver.umap: Failed to load '/Game/Assets/MAP/MAP_GameOver_BuiltData': Can't find file.
+[2022.12.07-20.44.40:297][487]LogLinker: Warning: [AssetLog] E:\Projet Unreal Engine\Donkey-Kong-UE-4.27.1\DonkeyKong\Content\Assets\MAP\MAP_GameOver.umap: Failed to load '/Game/Assets/MAP/MAP_GameOver_BuiltData': Can't find file.
+[2022.12.07-20.44.40:297][487]LogLinker: Warning: [AssetLog] E:\Projet Unreal Engine\Donkey-Kong-UE-4.27.1\DonkeyKong\Content\Assets\MAP\MAP_GameOver.umap: Failed to load '/Game/Assets/MAP/MAP_GameOver_BuiltData': Can't find file.
+[2022.12.07-20.44.40:298][487]LogLinker: Warning: Failed to load '/Game/Assets/MAP/MAP_GameOver_BuiltData': Can't find file.
+[2022.12.07-20.44.40:298][487]LogLinker: Warning: Failed to load '/Game/Assets/MAP/MAP_GameOver_BuiltData': Can't find file.
+[2022.12.07-20.44.40:307][487]LogLinker: Warning: [AssetLog] E:\Projet Unreal Engine\Donkey-Kong-UE-4.27.1\DonkeyKong\Content\Assets\MAP\MAP_GameOver.umap: Failed to load '/Game/Assets/MAP/MAP_GameOver_BuiltData': Can't find file.
+[2022.12.07-20.44.40:307][487]LoadErrors: Failed to load /Game/Assets/MAP/MAP_GameOver_BuiltData.MAP_GameOver_BuiltData Referenced by PersistentLevel
+[2022.12.07-20.44.40:309][487]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Assets/MAP/MAP_GameOver.MAP_GameOver
+[2022.12.07-20.44.40:310][487]Cmd: MAP LOAD FILE="E:/Projet Unreal Engine/Donkey-Kong-UE-4.27.1/DonkeyKong/Content/Assets/MAP/MAP_GameOver.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.12.07-20.44.40:310][487]LightingResults: New page: Lighting Build
+[2022.12.07-20.44.40:310][487]LoadErrors: New page: Loading map: MAP_GameOver.umap
+[2022.12.07-20.44.40:311][487]LogWorld: UWorld::CleanupWorld for MAP_MainMenu, bSessionEnded=true, bCleanupResources=true
+[2022.12.07-20.44.40:311][487]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.07-20.44.40:311][487]MapCheck: New page: Map Check
+[2022.12.07-20.44.40:311][487]LightingResults: New page: Lighting Build
+[2022.12.07-20.44.40:328][487]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.07-20.44.40:331][487]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2022.12.07-20.44.40:332][487]LogAudio: Display: Audio Device (ID: 1) registered with world 'MAP_GameOver'.
+[2022.12.07-20.44.40:355][487]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.12.07-20.44.40:356][487]LogAIModule: Creating AISystem for world MAP_GameOver
+[2022.12.07-20.44.40:376][487]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2022.12.07-20.44.40:386][487]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.12.07-20.44.40:387][487]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,087ms to complete.
+[2022.12.07-20.44.40:387][487]LogFileHelpers: Loading map 'MAP_GameOver' took 0.078
+[2022.12.07-20.44.41:257][585]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2022.12.07-20.44.41:291][585]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Assets/MAP/MAP_MainMenu.MAP_MainMenu
+[2022.12.07-20.44.41:291][585]Cmd: MAP LOAD FILE="E:/Projet Unreal Engine/Donkey-Kong-UE-4.27.1/DonkeyKong/Content/Assets/MAP/MAP_MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.12.07-20.44.41:291][585]LightingResults: New page: Lighting Build
+[2022.12.07-20.44.41:291][585]LoadErrors: New page: Loading map: MAP_MainMenu.umap
+[2022.12.07-20.44.41:293][585]LogWorld: UWorld::CleanupWorld for MAP_GameOver, bSessionEnded=true, bCleanupResources=true
+[2022.12.07-20.44.41:293][585]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.07-20.44.41:293][585]MapCheck: New page: Map Check
+[2022.12.07-20.44.41:293][585]LightingResults: New page: Lighting Build
+[2022.12.07-20.44.41:309][585]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.07-20.44.41:312][585]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2022.12.07-20.44.41:312][585]LogAudio: Display: Audio Device (ID: 1) registered with world 'MAP_MainMenu'.
+[2022.12.07-20.44.41:337][585]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.12.07-20.44.41:337][585]LogAIModule: Creating AISystem for world MAP_MainMenu
+[2022.12.07-20.44.41:357][585]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2022.12.07-20.44.41:367][585]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.12.07-20.44.41:367][585]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,085ms to complete.
+[2022.12.07-20.44.41:367][585]LogFileHelpers: Loading map 'MAP_MainMenu' took 0.076
+[2022.12.07-20.44.42:332][694]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2022.12.07-20.44.42:344][694]LogLinker: Warning: [AssetLog] E:\Projet Unreal Engine\Donkey-Kong-UE-4.27.1\DonkeyKong\Content\Assets\MAP\MAP_GameOver.umap: Failed to load '/Game/Assets/MAP/MAP_GameOver_BuiltData': Can't find file.
+[2022.12.07-20.44.42:344][694]LogLinker: Warning: [AssetLog] E:\Projet Unreal Engine\Donkey-Kong-UE-4.27.1\DonkeyKong\Content\Assets\MAP\MAP_GameOver.umap: Failed to load '/Game/Assets/MAP/MAP_GameOver_BuiltData': Can't find file.
+[2022.12.07-20.44.42:345][694]LogLinker: Warning: [AssetLog] E:\Projet Unreal Engine\Donkey-Kong-UE-4.27.1\DonkeyKong\Content\Assets\MAP\MAP_GameOver.umap: Failed to load '/Game/Assets/MAP/MAP_GameOver_BuiltData': Can't find file.
+[2022.12.07-20.44.42:345][694]LogLinker: Warning: Failed to load '/Game/Assets/MAP/MAP_GameOver_BuiltData': Can't find file.
+[2022.12.07-20.44.42:345][694]LogLinker: Warning: Failed to load '/Game/Assets/MAP/MAP_GameOver_BuiltData': Can't find file.
+[2022.12.07-20.44.42:349][694]LogLinker: Warning: [AssetLog] E:\Projet Unreal Engine\Donkey-Kong-UE-4.27.1\DonkeyKong\Content\Assets\MAP\MAP_GameOver.umap: Failed to load '/Game/Assets/MAP/MAP_GameOver_BuiltData': Can't find file.
+[2022.12.07-20.44.42:349][694]LoadErrors: Failed to load /Game/Assets/MAP/MAP_GameOver_BuiltData.MAP_GameOver_BuiltData Referenced by PersistentLevel
+[2022.12.07-20.44.42:351][694]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Assets/MAP/MAP_GameOver.MAP_GameOver
+[2022.12.07-20.44.42:351][694]Cmd: MAP LOAD FILE="E:/Projet Unreal Engine/Donkey-Kong-UE-4.27.1/DonkeyKong/Content/Assets/MAP/MAP_GameOver.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.12.07-20.44.42:351][694]LightingResults: New page: Lighting Build
+[2022.12.07-20.44.42:351][694]LoadErrors: New page: Loading map: MAP_GameOver.umap
+[2022.12.07-20.44.42:383][694]LogWorld: UWorld::CleanupWorld for MAP_MainMenu, bSessionEnded=true, bCleanupResources=true
+[2022.12.07-20.44.42:383][694]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.07-20.44.42:383][694]MapCheck: New page: Map Check
+[2022.12.07-20.44.42:383][694]LightingResults: New page: Lighting Build
+[2022.12.07-20.44.42:399][694]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.07-20.44.42:402][694]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2022.12.07-20.44.42:403][694]LogAudio: Display: Audio Device (ID: 1) registered with world 'MAP_GameOver'.
+[2022.12.07-20.44.42:427][694]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.12.07-20.44.42:427][694]LogAIModule: Creating AISystem for world MAP_GameOver
+[2022.12.07-20.44.42:447][694]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2022.12.07-20.44.42:457][694]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.12.07-20.44.42:457][694]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,084ms to complete.
+[2022.12.07-20.44.42:457][694]LogFileHelpers: Loading map 'MAP_GameOver' took 0.106
+[2022.12.07-20.44.43:282][788]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2022.12.07-20.44.43:313][788]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Assets/MAP/MAP_MainMenu.MAP_MainMenu
+[2022.12.07-20.44.43:313][788]Cmd: MAP LOAD FILE="E:/Projet Unreal Engine/Donkey-Kong-UE-4.27.1/DonkeyKong/Content/Assets/MAP/MAP_MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.12.07-20.44.43:313][788]LightingResults: New page: Lighting Build
+[2022.12.07-20.44.43:313][788]LoadErrors: New page: Loading map: MAP_MainMenu.umap
+[2022.12.07-20.44.43:315][788]LogWorld: UWorld::CleanupWorld for MAP_GameOver, bSessionEnded=true, bCleanupResources=true
+[2022.12.07-20.44.43:315][788]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.07-20.44.43:315][788]MapCheck: New page: Map Check
+[2022.12.07-20.44.43:315][788]LightingResults: New page: Lighting Build
+[2022.12.07-20.44.43:330][788]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.07-20.44.43:333][788]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2022.12.07-20.44.43:334][788]LogAudio: Display: Audio Device (ID: 1) registered with world 'MAP_MainMenu'.
+[2022.12.07-20.44.43:358][788]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.12.07-20.44.43:358][788]LogAIModule: Creating AISystem for world MAP_MainMenu
+[2022.12.07-20.44.43:379][788]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2022.12.07-20.44.43:389][788]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.12.07-20.44.43:389][788]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,085ms to complete.
+[2022.12.07-20.44.43:389][788]LogFileHelpers: Loading map 'MAP_MainMenu' took 0.076
+[2022.12.07-20.44.45:083][986]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2022.12.07-20.44.45:097][986]LogLinker: Warning: [AssetLog] E:\Projet Unreal Engine\Donkey-Kong-UE-4.27.1\DonkeyKong\Content\Assets\MAP\MAP_GameOver.umap: Failed to load '/Game/Assets/MAP/MAP_GameOver_BuiltData': Can't find file.
+[2022.12.07-20.44.45:098][986]LogLinker: Warning: [AssetLog] E:\Projet Unreal Engine\Donkey-Kong-UE-4.27.1\DonkeyKong\Content\Assets\MAP\MAP_GameOver.umap: Failed to load '/Game/Assets/MAP/MAP_GameOver_BuiltData': Can't find file.
+[2022.12.07-20.44.45:098][986]LogLinker: Warning: [AssetLog] E:\Projet Unreal Engine\Donkey-Kong-UE-4.27.1\DonkeyKong\Content\Assets\MAP\MAP_GameOver.umap: Failed to load '/Game/Assets/MAP/MAP_GameOver_BuiltData': Can't find file.
+[2022.12.07-20.44.45:098][986]LogLinker: Warning: Failed to load '/Game/Assets/MAP/MAP_GameOver_BuiltData': Can't find file.
+[2022.12.07-20.44.45:098][986]LogLinker: Warning: Failed to load '/Game/Assets/MAP/MAP_GameOver_BuiltData': Can't find file.
+[2022.12.07-20.44.45:102][986]LogLinker: Warning: [AssetLog] E:\Projet Unreal Engine\Donkey-Kong-UE-4.27.1\DonkeyKong\Content\Assets\MAP\MAP_GameOver.umap: Failed to load '/Game/Assets/MAP/MAP_GameOver_BuiltData': Can't find file.
+[2022.12.07-20.44.45:102][986]LoadErrors: Failed to load /Game/Assets/MAP/MAP_GameOver_BuiltData.MAP_GameOver_BuiltData Referenced by PersistentLevel
+[2022.12.07-20.44.45:114][986]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Assets/MAP/MAP_GameOver.MAP_GameOver
+[2022.12.07-20.44.45:114][986]Cmd: MAP LOAD FILE="E:/Projet Unreal Engine/Donkey-Kong-UE-4.27.1/DonkeyKong/Content/Assets/MAP/MAP_GameOver.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.12.07-20.44.45:114][986]LightingResults: New page: Lighting Build
+[2022.12.07-20.44.45:114][986]LoadErrors: New page: Loading map: MAP_GameOver.umap
+[2022.12.07-20.44.45:153][986]LogWorld: UWorld::CleanupWorld for MAP_MainMenu, bSessionEnded=true, bCleanupResources=true
+[2022.12.07-20.44.45:154][986]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.07-20.44.45:154][986]MapCheck: New page: Map Check
+[2022.12.07-20.44.45:154][986]LightingResults: New page: Lighting Build
+[2022.12.07-20.44.45:170][986]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.07-20.44.45:172][986]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2022.12.07-20.44.45:173][986]LogAudio: Display: Audio Device (ID: 1) registered with world 'MAP_GameOver'.
+[2022.12.07-20.44.45:197][986]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.12.07-20.44.45:197][986]LogAIModule: Creating AISystem for world MAP_GameOver
+[2022.12.07-20.44.45:217][986]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2022.12.07-20.44.45:227][986]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.12.07-20.44.45:227][986]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,083ms to complete.
+[2022.12.07-20.44.45:227][986]LogFileHelpers: Loading map 'MAP_GameOver' took 0.114
+[2022.12.07-20.44.47:534][232]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Assets/MAP/MAP_GameOver.MAP_GameOver:PersistentLevel.MAP_GameOver
+[2022.12.07-20.44.52:967][837]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2022.12.07-20.44.52:967][837]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.07-20.44.54:811][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2022.12.07-20.44.54:830][ 47]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Assets/MAP/MAP_MainMenu.MAP_MainMenu
+[2022.12.07-20.44.54:830][ 47]Cmd: MAP LOAD FILE="E:/Projet Unreal Engine/Donkey-Kong-UE-4.27.1/DonkeyKong/Content/Assets/MAP/MAP_MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.12.07-20.44.54:830][ 47]LightingResults: New page: Lighting Build
+[2022.12.07-20.44.54:830][ 47]LoadErrors: New page: Loading map: MAP_MainMenu.umap
+[2022.12.07-20.44.54:865][ 47]LogWorld: UWorld::CleanupWorld for MAP_GameOver, bSessionEnded=true, bCleanupResources=true
+[2022.12.07-20.44.54:865][ 47]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.07-20.44.54:865][ 47]MapCheck: New page: Map Check
+[2022.12.07-20.44.54:865][ 47]LightingResults: New page: Lighting Build
+[2022.12.07-20.44.54:881][ 47]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.07-20.44.54:884][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2022.12.07-20.44.54:884][ 47]LogAudio: Display: Audio Device (ID: 1) registered with world 'MAP_MainMenu'.
+[2022.12.07-20.44.54:908][ 47]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.12.07-20.44.54:909][ 47]LogAIModule: Creating AISystem for world MAP_MainMenu
+[2022.12.07-20.44.54:928][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2022.12.07-20.44.54:938][ 47]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.12.07-20.44.54:938][ 47]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,086ms to complete.
+[2022.12.07-20.44.54:938][ 47]LogFileHelpers: Loading map 'MAP_MainMenu' took 0.108
+[2022.12.07-20.44.57:027][272]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Assets/MAP/MAP_MainMenu.MAP_MainMenu:PersistentLevel.MAP_MainMenu
+[2022.12.07-20.44.58:285][385]LogLinker: [AssetLog] E:\Projet Unreal Engine\Donkey-Kong-UE-4.27.1\DonkeyKong\Content\Assets\MAP\MAP_GameOver.umap: Failed to load '/Game/Assets/MAP/MAP_GameOver_BuiltData': Can't find file.
+[2022.12.07-20.44.58:285][385]LogLinker: [AssetLog] E:\Projet Unreal Engine\Donkey-Kong-UE-4.27.1\DonkeyKong\Content\Assets\MAP\MAP_GameOver.umap: Failed to load '/Game/Assets/MAP/MAP_GameOver_BuiltData': Can't find file.
+[2022.12.07-20.44.58:286][385]LogLinker: Failed to load '/Game/Assets/MAP/MAP_GameOver_BuiltData': Can't find file.
+[2022.12.07-20.44.58:286][385]LogLinker: Failed to load '/Game/Assets/MAP/MAP_GameOver_BuiltData': Can't find file.
+[2022.12.07-20.44.58:289][385]LogLinker: [AssetLog] E:\Projet Unreal Engine\Donkey-Kong-UE-4.27.1\DonkeyKong\Content\Assets\MAP\MAP_GameOver.umap: Failed to load '/Game/Assets/MAP/MAP_GameOver_BuiltData': Can't find file.
+[2022.12.07-20.45.00:278][601]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.12.07-20.45.00:299][601]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.12.07-20.45.00:300][601]LogEditorClassViewer: Warning: Class /Game/Assets/MAP/MAP_GameOver.PLACEHOLDER-CLASS__GameOverScore_C_0 has parent None, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.12.07-20.45.04:691][118]BlueprintLog: New page: Compile MAP_MainMenu
+[2022.12.07-20.45.04:692][118]LogBlueprint: Warning: [AssetLog] E:\Projet Unreal Engine\Donkey-Kong-UE-4.27.1\DonkeyKong\Content\Assets\MAP\MAP_MainMenu.umap: [Compiler] Could not find a variable named "UI" in 'MAP_MainMenu_C'.
+Make sure 'MAP_MainMenu_C' has been compiled for  Set UI
+[2022.12.07-20.45.04:693][118]LogBlueprint: Error: [AssetLog] E:\Projet Unreal Engine\Donkey-Kong-UE-4.27.1\DonkeyKong\Content\Assets\MAP\MAP_MainMenu.umap: [Compiler] This blueprint (self) is not a UserWidget, therefore ' Target ' must have a connection.
+[2022.12.07-20.45.04:693][118]LogBlueprint: Error: [AssetLog] E:\Projet Unreal Engine\Donkey-Kong-UE-4.27.1\DonkeyKong\Content\Assets\MAP\MAP_MainMenu.umap: [Compiler] The property associated with  UI  could not be found in '/Game/Assets/MAP/MAP_MainMenu.MAP_MainMenu_C'
+[2022.12.07-20.45.04:753][118]LogUObjectHash: Compacting FUObjectHashTables data took   4.74ms
+[2022.12.07-20.45.05:155][158]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2022.12.07-20.45.05:161][158]LogSavePackage: Moving 'E:/Projet Unreal Engine/Donkey-Kong-UE-4.27.1/DonkeyKong/Saved/MAP_MainMenuA974A839452E359A39117DA47EAF2C2D.tmp' to 'E:/Projet Unreal Engine/Donkey-Kong-UE-4.27.1/DonkeyKong/Content/Assets/MAP/MAP_MainMenu.umap'
+[2022.12.07-20.45.05:172][158]LogFileHelpers: Saving map 'MAP_MainMenu' took 0.037
+[2022.12.07-20.45.05:182][158]AssetCheck: New page: Asset Save: MAP_MainMenu
+[2022.12.07-20.45.05:182][158]LogContentValidation: Display: Validating World /Game/Assets/MAP/MAP_MainMenu.MAP_MainMenu
+[2022.12.07-20.45.08:989][596]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2022.12.07-20.45.08:990][596]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.07-20.45.09:443][642]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2022.12.07-20.45.09:443][642]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.07-20.45.09:449][642]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2022.12.07-20.45.09:449][642]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.07-20.45.10:676][779]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2022.12.07-20.45.10:691][779]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Assets/MAP/MAP_GameOver.MAP_GameOver
+[2022.12.07-20.45.10:691][779]Cmd: MAP LOAD FILE="E:/Projet Unreal Engine/Donkey-Kong-UE-4.27.1/DonkeyKong/Content/Assets/MAP/MAP_GameOver.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.12.07-20.45.10:691][779]LightingResults: New page: Lighting Build
+[2022.12.07-20.45.10:691][779]LoadErrors: New page: Loading map: MAP_GameOver.umap
+[2022.12.07-20.45.10:693][779]LogWorld: UWorld::CleanupWorld for MAP_MainMenu, bSessionEnded=true, bCleanupResources=true
+[2022.12.07-20.45.10:693][779]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.07-20.45.10:693][779]MapCheck: New page: Map Check
+[2022.12.07-20.45.10:693][779]LightingResults: New page: Lighting Build
+[2022.12.07-20.45.10:708][779]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.07-20.45.10:716][779]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2022.12.07-20.45.10:716][779]LogAudio: Display: Audio Device (ID: 1) registered with world 'MAP_GameOver'.
+[2022.12.07-20.45.10:743][779]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.12.07-20.45.10:743][779]LogAIModule: Creating AISystem for world MAP_GameOver
+[2022.12.07-20.45.10:760][779]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2022.12.07-20.45.10:770][779]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.12.07-20.45.10:771][779]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,094ms to complete.
+[2022.12.07-20.45.10:771][779]LogFileHelpers: Loading map 'MAP_GameOver' took 0.079
+[2022.12.07-20.45.14:302][156]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Assets/MAP/MAP_GameOver.MAP_GameOver:PersistentLevel.MAP_GameOver
+[2022.12.07-20.45.16:734][404]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2022.12.07-20.45.16:734][404]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.07-20.45.17:656][505]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2022.12.07-20.45.17:679][505]LogBlueprint: Warning: [AssetLog] E:\Projet Unreal Engine\Donkey-Kong-UE-4.27.1\DonkeyKong\Content\Assets\MAP\MAP_MainMenu.umap: [Compiler] Could not find a variable named "UI" in 'MAP_MainMenu_C'.
+Make sure 'MAP_MainMenu_C' has been compiled for  Set UI
+[2022.12.07-20.45.17:679][505]LogBlueprint: Error: [AssetLog] E:\Projet Unreal Engine\Donkey-Kong-UE-4.27.1\DonkeyKong\Content\Assets\MAP\MAP_MainMenu.umap: [Compiler] This blueprint (self) is not a UserWidget, therefore ' Target ' must have a connection.
+[2022.12.07-20.45.17:680][505]LogBlueprint: Error: [AssetLog] E:\Projet Unreal Engine\Donkey-Kong-UE-4.27.1\DonkeyKong\Content\Assets\MAP\MAP_MainMenu.umap: [Compiler] The property associated with  UI  could not be found in '/Game/Assets/MAP/MAP_MainMenu.MAP_MainMenu_C'
+[2022.12.07-20.45.17:683][505]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Assets/MAP/MAP_MainMenu.MAP_MainMenu
+[2022.12.07-20.45.17:683][505]Cmd: MAP LOAD FILE="E:/Projet Unreal Engine/Donkey-Kong-UE-4.27.1/DonkeyKong/Content/Assets/MAP/MAP_MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.12.07-20.45.17:683][505]LightingResults: New page: Lighting Build
+[2022.12.07-20.45.17:683][505]LoadErrors: New page: Loading map: MAP_MainMenu.umap
+[2022.12.07-20.45.17:684][505]LogWorld: UWorld::CleanupWorld for MAP_GameOver, bSessionEnded=true, bCleanupResources=true
+[2022.12.07-20.45.17:684][505]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.07-20.45.17:685][505]MapCheck: New page: Map Check
+[2022.12.07-20.45.17:685][505]LightingResults: New page: Lighting Build
+[2022.12.07-20.45.17:698][505]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.07-20.45.17:701][505]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2022.12.07-20.45.17:701][505]LogAudio: Display: Audio Device (ID: 1) registered with world 'MAP_MainMenu'.
+[2022.12.07-20.45.17:725][505]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.12.07-20.45.17:726][505]LogAIModule: Creating AISystem for world MAP_MainMenu
+[2022.12.07-20.45.17:742][505]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2022.12.07-20.45.17:752][505]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.12.07-20.45.17:753][505]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,09ms to complete.
+[2022.12.07-20.45.17:753][505]LogFileHelpers: Loading map 'MAP_MainMenu' took 0.070
+[2022.12.07-20.45.20:551][810]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Assets/MAP/MAP_MainMenu.MAP_MainMenu:PersistentLevel.MAP_MainMenu
+[2022.12.07-20.45.23:523][125]BlueprintLog: New page: Compile MAP_MainMenu
+[2022.12.07-20.45.23:557][125]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2022.12.07-20.45.24:145][188]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2022.12.07-20.45.24:152][188]LogSavePackage: Moving 'E:/Projet Unreal Engine/Donkey-Kong-UE-4.27.1/DonkeyKong/Saved/MAP_MainMenuE71DA9474874C19F07B077A86C7B81D5.tmp' to 'E:/Projet Unreal Engine/Donkey-Kong-UE-4.27.1/DonkeyKong/Content/Assets/MAP/MAP_MainMenu.umap'
+[2022.12.07-20.45.24:163][188]LogFileHelpers: Saving map 'MAP_MainMenu' took 0.037
+[2022.12.07-20.45.24:172][188]AssetCheck: New page: Asset Save: MAP_MainMenu
+[2022.12.07-20.45.24:172][188]LogContentValidation: Display: Validating World /Game/Assets/MAP/MAP_MainMenu.MAP_MainMenu
+[2022.12.07-20.45.34:003][259]LogSlate: Took 0.020217 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2022.12.07-20.45.40:156][834]LogSlate: Window 'Change Variable Type' being destroyed
+[2022.12.07-20.45.41:383][962]LogSlate: Window 'Find in Blueprints' being destroyed
+[2022.12.07-20.45.45:531][393]BlueprintLog: New page: Compile MAP_MainMenu
+[2022.12.07-20.45.45:560][393]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2022.12.07-20.45.46:054][442]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2022.12.07-20.45.46:060][442]LogSavePackage: Moving 'E:/Projet Unreal Engine/Donkey-Kong-UE-4.27.1/DonkeyKong/Saved/MAP_MainMenuE0EDF8EE443AD95463D0A6B21D4342FC.tmp' to 'E:/Projet Unreal Engine/Donkey-Kong-UE-4.27.1/DonkeyKong/Content/Assets/MAP/MAP_MainMenu.umap'
+[2022.12.07-20.45.46:072][442]LogFileHelpers: Saving map 'MAP_MainMenu' took 0.037
+[2022.12.07-20.45.46:081][442]AssetCheck: New page: Asset Save: MAP_MainMenu
+[2022.12.07-20.45.46:081][442]LogContentValidation: Display: Validating World /Game/Assets/MAP/MAP_MainMenu.MAP_MainMenu
+[2022.12.07-20.54.09:466][823]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Assets/UI/MainMenu.MainMenu
+[2022.12.07-20.54.12:637][157]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2022.12.07-20.54.12:637][157]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.07-20.54.13:913][300]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Assets/UI/GameOverScore.GameOverScore
+[2022.12.07-20.54.49:918][871]LogTemp: Repeating last play command: Selected Viewport
+[2022.12.07-20.54.49:925][871]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.12.07-20.54.49:926][871]LogPlayLevel: [PlayLevel] Compiling MainMenu before play...
+[2022.12.07-20.54.50:017][871]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2022.12.07-20.54.50:018][871]LogPlayLevel: PlayLevel: Blueprint regeneration took 92 ms (1 blueprints)
+[2022.12.07-20.54.50:018][871]PIE: New page: PIE session: MAP_MainMenu (7 déc. 2022 à 22:54:50)
+[2022.12.07-20.54.50:018][871]LogPlayLevel: Creating play world package: /Game/Assets/MAP/UEDPIE_0_MAP_MainMenu
+[2022.12.07-20.54.50:019][871]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001269s)
+[2022.12.07-20.54.50:020][871]LogAIModule: Creating AISystem for world MAP_MainMenu
+[2022.12.07-20.54.50:020][871]LogPlayLevel: PIE: World Init took: (0.000967s)
+[2022.12.07-20.54.50:020][871]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/MAP/MAP_MainMenu.MAP_MainMenu to /Game/Assets/MAP/UEDPIE_0_MAP_MainMenu.MAP_MainMenu (0.002339s)
+[2022.12.07-20.54.50:041][871]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2022.12.07-20.54.50:041][871]LogAudio: Display: Creating Audio Device:                 Id: 27, Scope: Unique, Realtime: True
+[2022.12.07-20.54.50:041][871]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.07-20.54.50:041][871]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.07-20.54.50:041][871]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.07-20.54.50:041][871]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.07-20.54.50:041][871]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.07-20.54.50:041][871]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.12.07-20.54.50:041][871]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.07-20.54.50:041][871]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.07-20.54.50:042][871]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.07-20.54.50:042][871]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.07-20.54.50:042][871]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.07-20.54.50:042][871]LogAudioMixer: Display: Initializing audio mixer.
+[2022.12.07-20.54.50:047][871]LogAudioMixer: Display: 0: FrontLeft
+[2022.12.07-20.54.50:047][871]LogAudioMixer: Display: 1: FrontRight
+[2022.12.07-20.54.50:047][871]LogAudioMixer: Display: 2: FrontCenter
+[2022.12.07-20.54.50:047][871]LogAudioMixer: Display: 3: LowFrequency
+[2022.12.07-20.54.50:047][871]LogAudioMixer: Display: 4: BackLeft
+[2022.12.07-20.54.50:047][871]LogAudioMixer: Display: 5: BackRight
+[2022.12.07-20.54.50:047][871]LogAudioMixer: Display: 6: SideLeft
+[2022.12.07-20.54.50:047][871]LogAudioMixer: Display: 7: SideRight
+[2022.12.07-20.54.50:068][871]LogAudioMixer: Display: Using Audio Device 7.1 Game Sound (2- Teufel Gaming Headset)
+[2022.12.07-20.54.50:068][871]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.07-20.54.50:068][871]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.07-20.54.50:068][871]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.07-20.54.50:068][871]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.12.07-20.54.50:068][871]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.12.07-20.54.50:068][871]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2022.12.07-20.54.50:070][871]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.12.07-20.54.50:070][871]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.12.07-20.54.50:070][871]LogInit: FAudioDevice initialized.
+[2022.12.07-20.54.50:070][871]LogAudio: Display: Audio Device (ID: 27) registered with world 'MAP_MainMenu'.
+[2022.12.07-20.54.50:092][871]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.07-20.54.50:092][871]LogLoad: Game class is 'GameManager_C'
+[2022.12.07-20.54.50:093][871]LogWorld: Bringing World /Game/Assets/MAP/UEDPIE_0_MAP_MainMenu.MAP_MainMenu up for play (max tick rate 0) at 2022.12.07-21.54.50
+[2022.12.07-20.54.50:093][871]LogWorld: Bringing up level for play took: 0.000348
+[2022.12.07-20.54.50:093][871]LogOnline: OSS: Creating online subsystem instance for: :Context_60
+[2022.12.07-20.54.50:095][871]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.12.07-20.54.50:096][871]LogBlueprintUserMessages: [GameManager_C_0] Data Loaded
+[2022.12.07-20.54.50:098][871]PIE: Server logged in
+[2022.12.07-20.54.50:098][871]PIE: Play in editor total start time 0,174 seconds.
+[2022.12.07-20.54.50:099][871]LogInput: Error: Duplicate mapping of key Gamepad_LeftY for axis MoveUp
+[2022.12.07-20.54.52:681][168]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.07-20.54.52:681][168]LogWorld: BeginTearingDown for /Game/Assets/MAP/UEDPIE_0_MAP_MainMenu
+[2022.12.07-20.54.52:681][168]LogSlate: Window 'DonkeyKong Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.12.07-20.54.52:686][168]LogWorld: UWorld::CleanupWorld for MAP_MainMenu, bSessionEnded=true, bCleanupResources=true
+[2022.12.07-20.54.52:686][168]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.07-20.54.52:695][168]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.07-20.54.52:699][168]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.07-20.54.52:719][168]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.07-20.54.52:720][168]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.07-20.54.52:726][168]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2022.12.07-20.54.52:757][171]LogPlayLevel: Display: Destroying online subsystem :Context_60
+[2022.12.07-20.56.13:204][810]LogTemp: Repeating last play command: Selected Viewport
+[2022.12.07-20.56.13:210][810]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.12.07-20.56.13:211][810]LogPlayLevel: [PlayLevel] Compiling MainMenu before play...
+[2022.12.07-20.56.13:277][810]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2022.12.07-20.56.13:278][810]LogPlayLevel: PlayLevel: Blueprint regeneration took 67 ms (1 blueprints)
+[2022.12.07-20.56.13:278][810]PIE: New page: PIE session: MAP_MainMenu (7 déc. 2022 à 22:56:13)
+[2022.12.07-20.56.13:278][810]LogPlayLevel: Creating play world package: /Game/Assets/MAP/UEDPIE_0_MAP_MainMenu
+[2022.12.07-20.56.13:280][810]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001301s)
+[2022.12.07-20.56.13:280][810]LogAIModule: Creating AISystem for world MAP_MainMenu
+[2022.12.07-20.56.13:281][810]LogPlayLevel: PIE: World Init took: (0.000989s)
+[2022.12.07-20.56.13:281][810]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/MAP/MAP_MainMenu.MAP_MainMenu to /Game/Assets/MAP/UEDPIE_0_MAP_MainMenu.MAP_MainMenu (0.002393s)
+[2022.12.07-20.56.13:301][810]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2022.12.07-20.56.13:301][810]LogAudio: Display: Creating Audio Device:                 Id: 28, Scope: Unique, Realtime: True
+[2022.12.07-20.56.13:301][810]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.07-20.56.13:301][810]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.07-20.56.13:301][810]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.07-20.56.13:301][810]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.07-20.56.13:301][810]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.07-20.56.13:301][810]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.12.07-20.56.13:301][810]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.07-20.56.13:301][810]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.07-20.56.13:302][810]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.07-20.56.13:302][810]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.07-20.56.13:302][810]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.07-20.56.13:302][810]LogAudioMixer: Display: Initializing audio mixer.
+[2022.12.07-20.56.13:306][810]LogAudioMixer: Display: 0: FrontLeft
+[2022.12.07-20.56.13:306][810]LogAudioMixer: Display: 1: FrontRight
+[2022.12.07-20.56.13:306][810]LogAudioMixer: Display: 2: FrontCenter
+[2022.12.07-20.56.13:306][810]LogAudioMixer: Display: 3: LowFrequency
+[2022.12.07-20.56.13:306][810]LogAudioMixer: Display: 4: BackLeft
+[2022.12.07-20.56.13:306][810]LogAudioMixer: Display: 5: BackRight
+[2022.12.07-20.56.13:306][810]LogAudioMixer: Display: 6: SideLeft
+[2022.12.07-20.56.13:306][810]LogAudioMixer: Display: 7: SideRight
+[2022.12.07-20.56.13:325][810]LogAudioMixer: Display: Using Audio Device 7.1 Game Sound (2- Teufel Gaming Headset)
+[2022.12.07-20.56.13:325][810]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.07-20.56.13:325][810]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.07-20.56.13:325][810]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.07-20.56.13:326][810]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.12.07-20.56.13:326][810]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.12.07-20.56.13:326][810]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2022.12.07-20.56.13:327][810]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.12.07-20.56.13:327][810]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.12.07-20.56.13:327][810]LogInit: FAudioDevice initialized.
+[2022.12.07-20.56.13:327][810]LogAudio: Display: Audio Device (ID: 28) registered with world 'MAP_MainMenu'.
+[2022.12.07-20.56.13:350][810]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.07-20.56.13:350][810]LogLoad: Game class is 'GameManager_C'
+[2022.12.07-20.56.13:351][810]LogWorld: Bringing World /Game/Assets/MAP/UEDPIE_0_MAP_MainMenu.MAP_MainMenu up for play (max tick rate 0) at 2022.12.07-21.56.13
+[2022.12.07-20.56.13:352][810]LogWorld: Bringing up level for play took: 0.000879
+[2022.12.07-20.56.13:352][810]LogOnline: OSS: Creating online subsystem instance for: :Context_61
+[2022.12.07-20.56.13:354][810]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.12.07-20.56.13:355][810]LogBlueprintUserMessages: [GameManager_C_0] Data Loaded
+[2022.12.07-20.56.13:356][810]PIE: Server logged in
+[2022.12.07-20.56.13:356][810]PIE: Play in editor total start time 0,147 seconds.
+[2022.12.07-20.56.13:357][810]LogInput: Error: Duplicate mapping of key Gamepad_LeftY for axis MoveUp
+[2022.12.07-20.56.20:714][686]LogNet: Browse: /Game/Assets/MAP/MAP_Game
+[2022.12.07-20.56.20:714][686]LogLoad: LoadMap: /Game/Assets/MAP/MAP_Game
+[2022.12.07-20.56.20:714][686]LogWorld: BeginTearingDown for /Game/Assets/MAP/UEDPIE_0_MAP_MainMenu
+[2022.12.07-20.56.20:714][686]LogWorld: UWorld::CleanupWorld for MAP_MainMenu, bSessionEnded=true, bCleanupResources=true
+[2022.12.07-20.56.20:714][686]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.07-20.56.20:769][686]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.07-20.56.20:772][686]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2022.12.07-20.56.20:783][686]LogAudio: Display: Audio Device (ID: 28) registered with world 'MAP_Game'.
+[2022.12.07-20.56.20:784][686]LogAIModule: Creating AISystem for world MAP_Game
+[2022.12.07-20.56.20:784][686]LogLoad: Game class is 'GameManager_C'
+[2022.12.07-20.56.20:790][686]LogWorld: Bringing World /Game/Assets/MAP/UEDPIE_0_MAP_Game.MAP_Game up for play (max tick rate 0) at 2022.12.07-21.56.20
+[2022.12.07-20.56.20:790][686]LogWorld: Bringing up level for play took: 0.005777
+[2022.12.07-20.56.20:791][686]LogBlueprintUserMessages: [GameManager_C_0] Data Loaded
+[2022.12.07-20.56.20:792][686]LogLoad: Took 0.077815 seconds to LoadMap(/Game/Assets/MAP/MAP_Game)
+[2022.12.07-20.56.20:792][686]LogInput: Error: Duplicate mapping of key Gamepad_LeftY for axis MoveUp
+[2022.12.07-20.56.21:350][748]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.07-20.56.21:350][748]LogWorld: BeginTearingDown for /Game/Assets/MAP/UEDPIE_0_MAP_Game
+[2022.12.07-20.56.21:351][748]LogSlate: Window 'DonkeyKong Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.12.07-20.56.21:355][748]LogWorld: UWorld::CleanupWorld for MAP_Game, bSessionEnded=true, bCleanupResources=true
+[2022.12.07-20.56.21:356][748]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.07-20.56.21:365][748]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.07-20.56.21:369][748]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.07-20.56.21:390][748]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.07-20.56.21:391][748]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.07-20.56.21:397][748]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2022.12.07-20.56.21:411][749]LogPlayLevel: Display: Destroying online subsystem :Context_61
+[2022.12.07-20.56.23:406][984]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/UI/MainMenu" FILE="E:/Projet Unreal Engine/Donkey-Kong-UE-4.27.1/DonkeyKong/Content/Assets/UI/MainMenu.uasset" SILENT=true
+[2022.12.07-20.56.23:413][984]LogSavePackage: Moving 'E:/Projet Unreal Engine/Donkey-Kong-UE-4.27.1/DonkeyKong/Saved/MainMenu954952164460C23CF84F95926BBD526E.tmp' to 'E:/Projet Unreal Engine/Donkey-Kong-UE-4.27.1/DonkeyKong/Content/Assets/UI/MainMenu.uasset'
+[2022.12.07-20.56.23:424][984]AssetCheck: New page: Asset Save: MainMenu
+[2022.12.07-20.56.23:424][984]LogContentValidation: Display: Validating WidgetBlueprint /Game/Assets/UI/MainMenu.MainMenu
+[2022.12.07-20.56.24:456][105]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2022.12.07-21.20.42:864][ 73]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2022.12.07-21.20.42:864][ 73]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.07-21.20.42:871][ 73]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2022.12.07-21.20.42:871][ 73]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.07-21.20.43:073][ 86]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2022.12.07-21.20.43:073][ 86]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.07-21.20.43:080][ 86]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2022.12.07-21.20.43:080][ 86]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.07-21.20.43:675][150]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
