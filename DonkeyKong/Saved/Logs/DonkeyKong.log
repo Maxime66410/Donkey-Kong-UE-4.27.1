@@ -1612,3 +1612,199 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.12.08-10.03.50:618][742]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
 [2022.12.08-10.03.50:621][742]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
 [2022.12.08-10.03.50:677][747]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2022.12.08-10.04.24:327][859]LogSlate: Took 0.000123 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.12.08-10.04.24:346][859]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Assets/Blueprint/Obstacle/BP_Barrel.BP_Barrel
+[2022.12.08-10.04.24:417][859]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0003 seconds. Added 126 classes and 0 folders.
+[2022.12.08-10.04.24:853][859]LogSlate: Took 0.000138 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.12.08-10.04.25:480][916]LogSlate: Took 0.000135 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.12.08-10.04.56:674][ 98]BlueprintLog: New page: Compile BP_Barrel
+[2022.12.08-10.04.56:677][ 98]LogBlueprint: Error: [AssetLog] F:\Github\Donkey-Kong-UE-4.27.1\DonkeyKong\Content\Assets\Blueprint\Obstacle\BP_Barrel.uasset: [Compiler] This blueprint (self) is not a SideScrollerCharacter_C, therefore ' Target ' must have a connection.
+[2022.12.08-10.04.56:703][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2022.12.08-10.04.56:724][ 98]LogSlate: Took 0.000084 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.12.08-10.04.57:121][131]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Blueprint/Obstacle/BP_Barrel" FILE="../../../../../../Github/Donkey-Kong-UE-4.27.1/DonkeyKong/Content/Assets/Blueprint/Obstacle/BP_Barrel.uasset" SILENT=true
+[2022.12.08-10.04.57:131][131]LogSavePackage: Moving '../../../../../../Github/Donkey-Kong-UE-4.27.1/DonkeyKong/Saved/BP_Barrel4339AA784009FFB67960A2A6EE4EEFDF.tmp' to '../../../../../../Github/Donkey-Kong-UE-4.27.1/DonkeyKong/Content/Assets/Blueprint/Obstacle/BP_Barrel.uasset'
+[2022.12.08-10.04.57:140][131]AssetCheck: New page: Asset Save: BP_Barrel
+[2022.12.08-10.04.57:140][131]LogContentValidation: Display: Validating Blueprint /Game/Assets/Blueprint/Obstacle/BP_Barrel.BP_Barrel
+[2022.12.08-10.05.01:410][565]BlueprintLog: New page: Compile BP_Barrel
+[2022.12.08-10.05.01:433][565]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2022.12.08-10.05.01:930][602]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Blueprint/Obstacle/BP_Barrel" FILE="../../../../../../Github/Donkey-Kong-UE-4.27.1/DonkeyKong/Content/Assets/Blueprint/Obstacle/BP_Barrel.uasset" SILENT=true
+[2022.12.08-10.05.01:940][602]LogSavePackage: Moving '../../../../../../Github/Donkey-Kong-UE-4.27.1/DonkeyKong/Saved/BP_Barrel7ABD64434D2922DB8AE0A4B8ED35FA6E.tmp' to '../../../../../../Github/Donkey-Kong-UE-4.27.1/DonkeyKong/Content/Assets/Blueprint/Obstacle/BP_Barrel.uasset'
+[2022.12.08-10.05.01:948][602]AssetCheck: New page: Asset Save: BP_Barrel
+[2022.12.08-10.05.01:948][602]LogContentValidation: Display: Validating Blueprint /Game/Assets/Blueprint/Obstacle/BP_Barrel.BP_Barrel
+[2022.12.08-10.05.03:625][794]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Assets/Blueprint/Obstacle/BP_BarrelBlue.BP_BarrelBlue
+[2022.12.08-10.05.25:512][870]BlueprintLog: New page: Compile BP_BarrelBlue
+[2022.12.08-10.05.25:537][870]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2022.12.08-10.05.25:837][901]LogSavePackage: Moving '../../../../../../Github/Donkey-Kong-UE-4.27.1/DonkeyKong/Saved/BP_BarrelBlue8946E82D42E61BAB86665A845BDAF948.tmp' to '../../../../../../Github/Donkey-Kong-UE-4.27.1/DonkeyKong/Content/Assets/Blueprint/Obstacle/BP_BarrelBlue.uasset'
+[2022.12.08-10.05.25:844][901]AssetCheck: New page: Asset Save: BP_BarrelBlue
+[2022.12.08-10.05.25:844][901]LogContentValidation: Display: Validating Blueprint /Game/Assets/Blueprint/Obstacle/BP_BarrelBlue.BP_BarrelBlue
+[2022.12.08-10.05.27:467][ 88]LogTemp: Repeating last play command: Selected Viewport
+[2022.12.08-10.05.27:470][ 88]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.08-10.05.27:470][ 88]PIE: New page: PIE session: MAP_MainMenu (8 déc. 2022 à 12:05:27)
+[2022.12.08-10.05.27:509][ 88]LogPlayLevel: Creating play world package: /Game/Assets/MAP/UEDPIE_0_MAP_MainMenu
+[2022.12.08-10.05.27:510][ 88]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000698s)
+[2022.12.08-10.05.27:510][ 88]LogAIModule: Creating AISystem for world MAP_MainMenu
+[2022.12.08-10.05.27:510][ 88]LogPlayLevel: PIE: World Init took: (0.000632s)
+[2022.12.08-10.05.27:510][ 88]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/MAP/MAP_MainMenu.MAP_MainMenu to /Game/Assets/MAP/UEDPIE_0_MAP_MainMenu.MAP_MainMenu (0.001411s)
+[2022.12.08-10.05.27:523][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2022.12.08-10.05.27:524][ 88]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2022.12.08-10.05.27:524][ 88]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.08-10.05.27:524][ 88]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.08-10.05.27:524][ 88]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.08-10.05.27:524][ 88]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.08-10.05.27:524][ 88]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.08-10.05.27:524][ 88]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.12.08-10.05.27:524][ 88]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.08-10.05.27:524][ 88]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.08-10.05.27:524][ 88]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.08-10.05.27:524][ 88]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.08-10.05.27:524][ 88]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.08-10.05.27:524][ 88]LogAudioMixer: Display: Initializing audio mixer.
+[2022.12.08-10.05.27:530][ 88]LogAudioMixer: Display: 0: FrontLeft
+[2022.12.08-10.05.27:530][ 88]LogAudioMixer: Display: 1: FrontRight
+[2022.12.08-10.05.27:536][ 88]LogAudioMixer: Display: Using Audio Device PL2474H (NVIDIA High Definition Audio)
+[2022.12.08-10.05.27:536][ 88]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.08-10.05.27:536][ 88]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.08-10.05.27:536][ 88]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.08-10.05.27:536][ 88]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.12.08-10.05.27:536][ 88]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.12.08-10.05.27:536][ 88]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.12.08-10.05.27:537][ 88]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.12.08-10.05.27:537][ 88]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.12.08-10.05.27:537][ 88]LogInit: FAudioDevice initialized.
+[2022.12.08-10.05.27:537][ 88]LogAudio: Display: Audio Device (ID: 6) registered with world 'MAP_MainMenu'.
+[2022.12.08-10.05.27:542][ 88]LogLoad: Game class is 'GameManager_C'
+[2022.12.08-10.05.27:542][ 88]LogWorld: Bringing World /Game/Assets/MAP/UEDPIE_0_MAP_MainMenu.MAP_MainMenu up for play (max tick rate 0) at 2022.12.08-11.05.27
+[2022.12.08-10.05.27:542][ 88]LogWorld: Bringing up level for play took: 0.000196
+[2022.12.08-10.05.27:542][ 88]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2022.12.08-10.05.27:543][ 88]LogBlueprintUserMessages: [GameManager_C_0] Data Loaded
+[2022.12.08-10.05.27:544][ 88]PIE: Server logged in
+[2022.12.08-10.05.27:544][ 88]PIE: Play in editor total start time 0,075 seconds.
+[2022.12.08-10.05.27:544][ 88]LogInput: Error: Duplicate mapping of key Gamepad_LeftY for axis MoveUp
+[2022.12.08-10.05.28:318][181]LogNet: Browse: /Game/Assets/MAP/MAP_Game
+[2022.12.08-10.05.28:318][181]LogLoad: LoadMap: /Game/Assets/MAP/MAP_Game
+[2022.12.08-10.05.28:318][181]LogWorld: BeginTearingDown for /Game/Assets/MAP/UEDPIE_0_MAP_MainMenu
+[2022.12.08-10.05.28:318][181]LogWorld: UWorld::CleanupWorld for MAP_MainMenu, bSessionEnded=true, bCleanupResources=true
+[2022.12.08-10.05.28:318][181]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.08-10.05.28:360][181]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.08-10.05.28:362][181]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2022.12.08-10.05.28:367][181]LogAudio: Display: Audio Device (ID: 6) registered with world 'MAP_Game'.
+[2022.12.08-10.05.28:368][181]LogAIModule: Creating AISystem for world MAP_Game
+[2022.12.08-10.05.28:368][181]LogLoad: Game class is 'GameManager_C'
+[2022.12.08-10.05.28:371][181]LogWorld: Bringing World /Game/Assets/MAP/UEDPIE_0_MAP_Game.MAP_Game up for play (max tick rate 0) at 2022.12.08-11.05.28
+[2022.12.08-10.05.28:371][181]LogWorld: Bringing up level for play took: 0.002390
+[2022.12.08-10.05.28:372][181]LogBlueprintUserMessages: [GameManager_C_0] Data Loaded
+[2022.12.08-10.05.28:372][181]Cmd: DisableAllScreenMessages
+[2022.12.08-10.05.28:372][181]LogEngine: Onscreen warnings/messages are now DISABLED
+[2022.12.08-10.05.28:372][181]LogLoad: Took 0.054199 seconds to LoadMap(/Game/Assets/MAP/MAP_Game)
+[2022.12.08-10.05.28:372][181]LogInput: Error: Duplicate mapping of key Gamepad_LeftY for axis MoveUp
+[2022.12.08-10.05.56:490][547]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.08-10.05.56:490][547]LogWorld: BeginTearingDown for /Game/Assets/MAP/UEDPIE_0_MAP_Game
+[2022.12.08-10.05.56:490][547]LogWorld: UWorld::CleanupWorld for MAP_Game, bSessionEnded=true, bCleanupResources=true
+[2022.12.08-10.05.56:490][547]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.08-10.05.56:495][547]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.08-10.05.56:497][547]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.08-10.05.56:510][547]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.08-10.05.56:510][547]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.08-10.05.56:511][547]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.08-10.05.56:513][547]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.08-10.05.56:514][547]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2022.12.08-10.05.56:557][551]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2022.12.08-10.06.01:143][993]LogSavePackage: Moving '../../../../../../Github/Donkey-Kong-UE-4.27.1/DonkeyKong/Saved/BP_BarrelBlue7BF7CD65432D422BDC495AA4F0FFBF58.tmp' to '../../../../../../Github/Donkey-Kong-UE-4.27.1/DonkeyKong/Content/Assets/Blueprint/Obstacle/BP_BarrelBlue.uasset'
+[2022.12.08-10.06.01:150][993]AssetCheck: New page: Asset Save: BP_BarrelBlue
+[2022.12.08-10.06.01:150][993]LogContentValidation: Display: Validating Blueprint /Game/Assets/Blueprint/Obstacle/BP_BarrelBlue.BP_BarrelBlue
+[2022.12.08-10.06.02:566][136]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2022.12.08-10.06.02:569][136]LogSavePackage: Moving '../../../../../../Github/Donkey-Kong-UE-4.27.1/DonkeyKong/Saved/MAP_MainMenuEB36CA5F4B8D89B9DED683A145947B59.tmp' to '../../../../../../Github/Donkey-Kong-UE-4.27.1/DonkeyKong/Content/Assets/MAP/MAP_MainMenu.umap'
+[2022.12.08-10.06.02:582][136]AssetCheck: New page: Asset Save: MAP_MainMenu
+[2022.12.08-10.06.02:582][136]LogContentValidation: Display: Validating World /Game/Assets/MAP/MAP_MainMenu.MAP_MainMenu
+[2022.12.08-10.06.07:407][684]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter
+[2022.12.08-10.06.28:379][840]BlueprintLog: New page: Compile SideScrollerCharacter
+[2022.12.08-10.06.28:413][840]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2022.12.08-10.06.28:808][861]LogSavePackage: Moving '../../../../../../Github/Donkey-Kong-UE-4.27.1/DonkeyKong/Saved/SideScrollerCharacter9F5EA433429C1C0C74A1FD9942C2EDD0.tmp' to '../../../../../../Github/Donkey-Kong-UE-4.27.1/DonkeyKong/Content/SideScrollerBP/Blueprints/SideScrollerCharacter.uasset'
+[2022.12.08-10.06.28:819][861]AssetCheck: New page: Asset Save: SideScrollerCharacter
+[2022.12.08-10.06.28:819][861]LogContentValidation: Display: Validating Blueprint /Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter
+[2022.12.08-10.06.29:497][936]LogTemp: Repeating last play command: Selected Viewport
+[2022.12.08-10.06.29:501][936]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.08-10.06.29:501][936]PIE: New page: PIE session: MAP_MainMenu (8 déc. 2022 à 12:06:29)
+[2022.12.08-10.06.29:501][936]LogPlayLevel: Creating play world package: /Game/Assets/MAP/UEDPIE_0_MAP_MainMenu
+[2022.12.08-10.06.29:502][936]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001071s)
+[2022.12.08-10.06.29:503][936]LogAIModule: Creating AISystem for world MAP_MainMenu
+[2022.12.08-10.06.29:503][936]LogPlayLevel: PIE: World Init took: (0.000915s)
+[2022.12.08-10.06.29:503][936]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/MAP/MAP_MainMenu.MAP_MainMenu to /Game/Assets/MAP/UEDPIE_0_MAP_MainMenu.MAP_MainMenu (0.002089s)
+[2022.12.08-10.06.29:517][936]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2022.12.08-10.06.29:518][936]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2022.12.08-10.06.29:518][936]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.08-10.06.29:518][936]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.08-10.06.29:518][936]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.08-10.06.29:518][936]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.08-10.06.29:518][936]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.08-10.06.29:518][936]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.12.08-10.06.29:518][936]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.08-10.06.29:518][936]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.08-10.06.29:519][936]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.08-10.06.29:519][936]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.08-10.06.29:519][936]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.08-10.06.29:519][936]LogAudioMixer: Display: Initializing audio mixer.
+[2022.12.08-10.06.29:523][936]LogAudioMixer: Display: 0: FrontLeft
+[2022.12.08-10.06.29:523][936]LogAudioMixer: Display: 1: FrontRight
+[2022.12.08-10.06.29:529][936]LogAudioMixer: Display: Using Audio Device PL2474H (NVIDIA High Definition Audio)
+[2022.12.08-10.06.29:529][936]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.08-10.06.29:529][936]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.08-10.06.29:529][936]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.08-10.06.29:530][936]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.12.08-10.06.29:530][936]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.12.08-10.06.29:530][936]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.12.08-10.06.29:530][936]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.12.08-10.06.29:530][936]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.12.08-10.06.29:530][936]LogInit: FAudioDevice initialized.
+[2022.12.08-10.06.29:530][936]LogAudio: Display: Audio Device (ID: 7) registered with world 'MAP_MainMenu'.
+[2022.12.08-10.06.29:573][936]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.08-10.06.29:573][936]LogLoad: Game class is 'GameManager_C'
+[2022.12.08-10.06.29:574][936]LogWorld: Bringing World /Game/Assets/MAP/UEDPIE_0_MAP_MainMenu.MAP_MainMenu up for play (max tick rate 0) at 2022.12.08-11.06.29
+[2022.12.08-10.06.29:574][936]LogWorld: Bringing up level for play took: 0.000256
+[2022.12.08-10.06.29:574][936]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2022.12.08-10.06.29:575][936]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.12.08-10.06.29:576][936]LogBlueprintUserMessages: [GameManager_C_0] Data Loaded
+[2022.12.08-10.06.29:578][936]PIE: Server logged in
+[2022.12.08-10.06.29:580][936]PIE: Play in editor total start time 0,08 seconds.
+[2022.12.08-10.06.29:580][936]LogInput: Error: Duplicate mapping of key Gamepad_LeftY for axis MoveUp
+[2022.12.08-10.06.29:599][937]LogRenderer: Reallocating scene render targets to support 1280x720 Format 10 NumSamples 1 (Frame:1).
+[2022.12.08-10.06.30:336][ 17]LogNet: Browse: /Game/Assets/MAP/MAP_Game
+[2022.12.08-10.06.30:337][ 17]LogLoad: LoadMap: /Game/Assets/MAP/MAP_Game
+[2022.12.08-10.06.30:337][ 17]LogWorld: BeginTearingDown for /Game/Assets/MAP/UEDPIE_0_MAP_MainMenu
+[2022.12.08-10.06.30:337][ 17]LogWorld: UWorld::CleanupWorld for MAP_MainMenu, bSessionEnded=true, bCleanupResources=true
+[2022.12.08-10.06.30:337][ 17]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.08-10.06.30:380][ 17]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.08-10.06.30:382][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2022.12.08-10.06.30:388][ 17]LogAudio: Display: Audio Device (ID: 7) registered with world 'MAP_Game'.
+[2022.12.08-10.06.30:389][ 17]LogAIModule: Creating AISystem for world MAP_Game
+[2022.12.08-10.06.30:389][ 17]LogLoad: Game class is 'GameManager_C'
+[2022.12.08-10.06.30:392][ 17]LogWorld: Bringing World /Game/Assets/MAP/UEDPIE_0_MAP_Game.MAP_Game up for play (max tick rate 0) at 2022.12.08-11.06.30
+[2022.12.08-10.06.30:392][ 17]LogWorld: Bringing up level for play took: 0.002419
+[2022.12.08-10.06.30:392][ 17]LogBlueprintUserMessages: [GameManager_C_0] Data Loaded
+[2022.12.08-10.06.30:393][ 17]Cmd: DisableAllScreenMessages
+[2022.12.08-10.06.30:393][ 17]LogEngine: Onscreen warnings/messages are now DISABLED
+[2022.12.08-10.06.30:393][ 17]LogLoad: Took 0.056305 seconds to LoadMap(/Game/Assets/MAP/MAP_Game)
+[2022.12.08-10.06.30:393][ 17]LogInput: Error: Duplicate mapping of key Gamepad_LeftY for axis MoveUp
+[2022.12.08-10.07.14:477][301]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.08-10.07.14:477][301]LogWorld: BeginTearingDown for /Game/Assets/MAP/UEDPIE_0_MAP_Game
+[2022.12.08-10.07.14:477][301]LogSlate: Window 'DonkeyKong Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.12.08-10.07.14:482][301]LogWorld: UWorld::CleanupWorld for MAP_Game, bSessionEnded=true, bCleanupResources=true
+[2022.12.08-10.07.14:482][301]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.08-10.07.14:489][301]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.08-10.07.14:491][301]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.08-10.07.14:504][301]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.08-10.07.14:504][301]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.08-10.07.14:505][301]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.08-10.07.14:508][301]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2022.12.08-10.07.14:550][306]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2022.12.08-10.07.17:794][683]LogSavePackage: Moving '../../../../../../Github/Donkey-Kong-UE-4.27.1/DonkeyKong/Saved/SideScrollerCharacter5D86053D4AB58C79202299B7556E8959.tmp' to '../../../../../../Github/Donkey-Kong-UE-4.27.1/DonkeyKong/Content/SideScrollerBP/Blueprints/SideScrollerCharacter.uasset'
+[2022.12.08-10.07.17:802][683]AssetCheck: New page: Asset Save: SideScrollerCharacter
+[2022.12.08-10.07.17:802][683]LogContentValidation: Display: Validating Blueprint /Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter
+[2022.12.08-10.07.19:737][895]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2022.12.08-10.07.19:737][895]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.08-10.07.19:936][908]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.12.08-10.07.19:936][908]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2022.12.08-10.07.19:936][908]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.08-10.07.20:457][963]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.12.08-10.07.20:457][963]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2022.12.08-10.07.20:457][963]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
