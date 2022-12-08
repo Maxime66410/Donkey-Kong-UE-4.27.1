@@ -2433,3 +2433,19 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.12.08-10.17.52:132][878]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
 [2022.12.08-10.17.52:132][878]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
 [2022.12.08-10.17.54:382][136]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2022.12.08-10.20.05:918][293]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Assets/UI/MainMenu.MainMenu
+[2022.12.08-10.20.15:042][289]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2022.12.08-10.20.15:042][289]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.08-10.20.15:046][289]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2022.12.08-10.20.15:046][289]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.08-10.35.13:865][345]LogActorFactory: Actor Factory created Cube
+[2022.12.08-10.35.14:069][360]LogActorFactory: Actor Factory created Cube
+[2022.12.08-10.35.18:449][866]Cmd: DELETE
+[2022.12.08-10.35.18:449][866]Cmd: ACTOR DELETE
+[2022.12.08-10.35.18:452][866]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.08-10.35.18:465][866]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2022.12.08-10.35.18:470][866]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2022.12.08-10.35.19:226][954]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2022.12.08-10.35.19:230][954]LogSavePackage: Moving '../../../../../../Github/Donkey-Kong-UE-4.27.1/DonkeyKong/Saved/MAP_MainMenuE86D19194A7944C0710C13A4CBFE963F.tmp' to '../../../../../../Github/Donkey-Kong-UE-4.27.1/DonkeyKong/Content/Assets/MAP/MAP_MainMenu.umap'
+[2022.12.08-10.35.19:243][954]AssetCheck: New page: Asset Save: MAP_MainMenu
+[2022.12.08-10.35.19:243][954]LogContentValidation: Display: Validating World /Game/Assets/MAP/MAP_MainMenu.MAP_MainMenu
