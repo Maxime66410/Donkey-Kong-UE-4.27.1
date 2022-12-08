@@ -2449,3 +2449,62 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.12.08-10.35.19:230][954]LogSavePackage: Moving '../../../../../../Github/Donkey-Kong-UE-4.27.1/DonkeyKong/Saved/MAP_MainMenuE86D19194A7944C0710C13A4CBFE963F.tmp' to '../../../../../../Github/Donkey-Kong-UE-4.27.1/DonkeyKong/Content/Assets/MAP/MAP_MainMenu.umap'
 [2022.12.08-10.35.19:243][954]AssetCheck: New page: Asset Save: MAP_MainMenu
 [2022.12.08-10.35.19:243][954]LogContentValidation: Display: Validating World /Game/Assets/MAP/MAP_MainMenu.MAP_MainMenu
+[2022.12.08-13.03.05:119][229]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.12.08-13.03.05:119][229]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.12.08-13.03.06:023][323]LogSlate: Took 0.004945 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.12.08-13.03.13:384][148]LogTemp: Repeating last play command: Selected Viewport
+[2022.12.08-13.03.13:388][148]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.08-13.03.13:388][148]PIE: New page: PIE session: MAP_MainMenu (8 déc. 2022 à 15:03:13)
+[2022.12.08-13.03.13:427][148]LogPlayLevel: Creating play world package: /Game/Assets/MAP/UEDPIE_0_MAP_MainMenu
+[2022.12.08-13.03.13:428][148]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000933s)
+[2022.12.08-13.03.13:429][148]LogAIModule: Creating AISystem for world MAP_MainMenu
+[2022.12.08-13.03.13:429][148]LogPlayLevel: PIE: World Init took: (0.000953s)
+[2022.12.08-13.03.13:429][148]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/MAP/MAP_MainMenu.MAP_MainMenu to /Game/Assets/MAP/UEDPIE_0_MAP_MainMenu.MAP_MainMenu (0.001996s)
+[2022.12.08-13.03.13:444][148]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2022.12.08-13.03.13:449][148]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2022.12.08-13.03.13:449][148]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.08-13.03.13:449][148]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.08-13.03.13:449][148]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.08-13.03.13:449][148]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.08-13.03.13:449][148]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.08-13.03.13:449][148]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.12.08-13.03.13:449][148]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.08-13.03.13:449][148]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.08-13.03.13:450][148]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.08-13.03.13:450][148]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.08-13.03.13:450][148]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.08-13.03.13:450][148]LogAudioMixer: Display: Initializing audio mixer.
+[2022.12.08-13.03.13:484][148]LogAudioMixer: Display: 0: FrontLeft
+[2022.12.08-13.03.13:484][148]LogAudioMixer: Display: 1: FrontRight
+[2022.12.08-13.03.13:490][148]LogAudioMixer: Display: Using Audio Device PL2474H (NVIDIA High Definition Audio)
+[2022.12.08-13.03.13:490][148]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.08-13.03.13:490][148]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.08-13.03.13:490][148]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.08-13.03.13:491][148]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.12.08-13.03.13:491][148]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.12.08-13.03.13:491][148]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.12.08-13.03.13:491][148]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.12.08-13.03.13:491][148]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.12.08-13.03.13:491][148]LogInit: FAudioDevice initialized.
+[2022.12.08-13.03.13:491][148]LogAudio: Display: Audio Device (ID: 15) registered with world 'MAP_MainMenu'.
+[2022.12.08-13.03.13:501][148]LogLoad: Game class is 'GameManager_C'
+[2022.12.08-13.03.13:502][148]LogWorld: Bringing World /Game/Assets/MAP/UEDPIE_0_MAP_MainMenu.MAP_MainMenu up for play (max tick rate 0) at 2022.12.08-14.03.13
+[2022.12.08-13.03.13:502][148]LogWorld: Bringing up level for play took: 0.000220
+[2022.12.08-13.03.13:502][148]LogOnline: OSS: Creating online subsystem instance for: :Context_44
+[2022.12.08-13.03.13:507][148]LogBlueprintUserMessages: [GameManager_C_0] Data Loaded
+[2022.12.08-13.03.13:507][148]PIE: Server logged in
+[2022.12.08-13.03.13:507][148]PIE: Play in editor total start time 0,12 seconds.
+[2022.12.08-13.03.13:508][148]LogInput: Error: Duplicate mapping of key Gamepad_LeftY for axis MoveUp
+[2022.12.08-13.03.14:538][266]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.08-13.03.14:538][266]LogWorld: BeginTearingDown for /Game/Assets/MAP/UEDPIE_0_MAP_MainMenu
+[2022.12.08-13.03.14:538][266]LogWorld: UWorld::CleanupWorld for MAP_MainMenu, bSessionEnded=true, bCleanupResources=true
+[2022.12.08-13.03.14:538][266]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.08-13.03.14:547][266]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.08-13.03.14:549][266]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.08-13.03.14:559][266]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.08-13.03.14:559][266]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.08-13.03.14:560][266]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.08-13.03.14:564][266]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2022.12.08-13.03.14:642][272]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2022.12.08-13.03.25:563][342]LogSlate: Window 'Device Output Log' being destroyed
+[2022.12.08-13.03.54:413][453]LogSlate: Window 'Editor Preferences' being destroyed
